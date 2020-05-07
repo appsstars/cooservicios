@@ -1,0 +1,58 @@
+/*
+=================================================
+---------estilos boton whatsapp-----------------
+================================================= */
+.appWhatsapp{
+    position: fixed;
+    left: 26px;
+    bottom: 45px;
+    width: 66px;
+    z-index: 1000;
+}
+.appWhatsapp:hover{
+    transform: scale(1.2);
+}
+.appWhatsapp img{
+    width: 100%;
+    height: auto;
+}
+.puntos{
+    text-align: center;
+}
+#detalle-noticias{
+    z-index: 5000;
+    position: absolute;
+}
+.noti{
+    background-color: #f3f3f3;
+}
+.caja_noti{
+    border-right: 1px dotted #46b6cf;
+    border-bottom: 2px dotted #46b6cf;
+    border-radius: 25px;
+    margin-top: 10px;
+    padding: 20px;
+}
+.logo1{
+    width: 100px !important;
+    height: auto;
+    margin-bottom: 1px !important;
+    
+}
+.nombre{
+   border-radius: 10px;
+    /* background-color: #004e5a !important; */
+   color: #f8f9fa;
+}
+.icon_index{
+   
+    font-size: 60px;
+    
+}
+#modal_resena{
+    z-index: 5000 !important;
+    position: absolute;
+}
+.resena{
+    background-color: #00b397 !important;
+}

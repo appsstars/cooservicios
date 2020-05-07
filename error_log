@@ -1,0 +1,195 @@
+[17-Apr-2020 10:31:12 America/Bogota] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/cooserv1/public_html/new/app/conexion/conexion.php on line 2
+[17-Apr-2020 10:31:20 America/Bogota] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/cooserv1/public_html/new/app/conexion/conexion.php on line 2
+[17-Apr-2020 10:31:25 America/Bogota] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/cooserv1/public_html/new/app/conexion/db.php on line 12
+[17-Apr-2020 10:31:25 America/Bogota] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/cooserv1/public_html/new/app/noticias/app.php on line 9
+[17-Apr-2020 10:31:25 America/Bogota] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home3/cooserv1/public_html/new/app/noticias/app.php on line 10
+[17-Apr-2020 10:31:25 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home3/cooserv1/public_html/new/noticias.php on line 53
+[17-Apr-2020 10:31:25 America/Bogota] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/cooserv1/public_html/new/app/conexion/conexion.php on line 2
+[17-Apr-2020 11:27:30 America/Bogota] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/cooserv1/public_html/new/app/conexion/db.php on line 12
+[17-Apr-2020 11:27:30 America/Bogota] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/cooserv1/public_html/new/app/noticias/app.php on line 9
+[17-Apr-2020 11:27:30 America/Bogota] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home3/cooserv1/public_html/new/app/noticias/app.php on line 10
+[17-Apr-2020 11:27:30 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home3/cooserv1/public_html/new/noticias.php on line 53
+[17-Apr-2020 11:27:55 America/Bogota] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/cooserv1/public_html/new/app/conexion/db.php on line 12
+[17-Apr-2020 11:27:55 America/Bogota] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/cooserv1/public_html/new/app/noticias/app.php on line 9
+[17-Apr-2020 11:27:55 America/Bogota] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home3/cooserv1/public_html/new/app/noticias/app.php on line 10
+[17-Apr-2020 11:27:55 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home3/cooserv1/public_html/new/noticias.php on line 53
+[17-Apr-2020 11:30:41 America/Bogota] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/cooserv1/public_html/new/app/conexion/db.php on line 12
+[17-Apr-2020 11:30:41 America/Bogota] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/cooserv1/public_html/new/app/noticias/app.php on line 9
+[17-Apr-2020 11:30:41 America/Bogota] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home3/cooserv1/public_html/new/app/noticias/app.php on line 10
+[17-Apr-2020 11:30:41 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home3/cooserv1/public_html/new/noticias.php on line 53
+[17-Apr-2020 11:31:57 America/Bogota] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/cooserv1/public_html/new/app/conexion/db.php on line 12
+[17-Apr-2020 11:31:57 America/Bogota] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/cooserv1/public_html/new/app/noticias/app.php on line 9
+[17-Apr-2020 11:31:57 America/Bogota] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home3/cooserv1/public_html/new/app/noticias/app.php on line 10
+[17-Apr-2020 11:31:57 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home3/cooserv1/public_html/new/noticias.php on line 53
+[17-Apr-2020 14:26:08 America/Bogota] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/cooserv1/public_html/new/app/conexion/db.php on line 12
+[17-Apr-2020 14:26:08 America/Bogota] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/cooserv1/public_html/new/app/noticias/app.php on line 9
+[17-Apr-2020 14:26:08 America/Bogota] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home3/cooserv1/public_html/new/app/noticias/app.php on line 10
+[17-Apr-2020 14:26:08 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home3/cooserv1/public_html/new/noticias.php on line 53
+[17-Apr-2020 15:16:05 America/Bogota] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/cooserv1/public_html/new/app/conexion/db.php on line 12
+[17-Apr-2020 15:16:05 America/Bogota] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/cooserv1/public_html/new/app/noticias/app.php on line 9
+[17-Apr-2020 15:16:05 America/Bogota] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home3/cooserv1/public_html/new/app/noticias/app.php on line 10
+[17-Apr-2020 15:16:05 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home3/cooserv1/public_html/new/noticias.php on line 53
+[17-Apr-2020 15:44:35 America/Bogota] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/cooserv1/public_html/new/app/conexion/db.php on line 12
+[17-Apr-2020 15:44:35 America/Bogota] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/cooserv1/public_html/new/app/noticias/app.php on line 9
+[17-Apr-2020 15:44:35 America/Bogota] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home3/cooserv1/public_html/new/app/noticias/app.php on line 10
+[17-Apr-2020 15:44:35 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home3/cooserv1/public_html/new/noticias.php on line 53
+[17-Apr-2020 15:59:04 America/Bogota] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/cooserv1/public_html/new/app/conexion/db.php on line 12
+[17-Apr-2020 15:59:04 America/Bogota] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/cooserv1/public_html/new/app/noticias/app.php on line 9
+[17-Apr-2020 15:59:04 America/Bogota] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home3/cooserv1/public_html/new/app/noticias/app.php on line 10
+[17-Apr-2020 15:59:04 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home3/cooserv1/public_html/new/noticias.php on line 53
+[17-Apr-2020 20:00:38 America/Bogota] PHP Warning:  scandir(img/eventos/premios): failed to open dir: No such file or directory in /home3/cooserv1/public_html/new/galeria.php on line 46
+[17-Apr-2020 20:00:38 America/Bogota] PHP Warning:  scandir(): (errno 2): No such file or directory in /home3/cooserv1/public_html/new/galeria.php on line 46
+[17-Apr-2020 20:00:38 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home3/cooserv1/public_html/new/galeria.php on line 47
+[17-Apr-2020 20:26:14 America/Bogota] PHP Warning:  scandir(img/eventos/capacitaciones): failed to open dir: No such file or directory in /home3/cooserv1/public_html/new/galeria.php on line 46
+[17-Apr-2020 20:26:14 America/Bogota] PHP Warning:  scandir(): (errno 2): No such file or directory in /home3/cooserv1/public_html/new/galeria.php on line 46
+[17-Apr-2020 20:26:14 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home3/cooserv1/public_html/new/galeria.php on line 47
+[18-Apr-2020 00:23:22 America/Bogota] PHP Warning:  scandir(img/eventos/premios): failed to open dir: No such file or directory in /home3/cooserv1/public_html/new/galeria.php on line 46
+[18-Apr-2020 00:23:22 America/Bogota] PHP Warning:  scandir(): (errno 2): No such file or directory in /home3/cooserv1/public_html/new/galeria.php on line 46
+[18-Apr-2020 00:23:22 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home3/cooserv1/public_html/new/galeria.php on line 47
+[18-Apr-2020 00:23:24 America/Bogota] PHP Warning:  scandir(img/eventos/capacitaciones): failed to open dir: No such file or directory in /home3/cooserv1/public_html/new/galeria.php on line 46
+[18-Apr-2020 00:23:24 America/Bogota] PHP Warning:  scandir(): (errno 2): No such file or directory in /home3/cooserv1/public_html/new/galeria.php on line 46
+[18-Apr-2020 00:23:24 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home3/cooserv1/public_html/new/galeria.php on line 47
+[18-Apr-2020 00:28:07 America/Bogota] PHP Warning:  scandir(img/galeria/albums): failed to open dir: No such file or directory in /home3/cooserv1/public_html/new/galeria.php on line 33
+[18-Apr-2020 00:28:07 America/Bogota] PHP Warning:  scandir(): (errno 2): No such file or directory in /home3/cooserv1/public_html/new/galeria.php on line 33
+[18-Apr-2020 17:21:07 America/Bogota] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/cooserv1/public_html/new/app/conexion/db.php on line 12
+[18-Apr-2020 17:21:07 America/Bogota] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/cooserv1/public_html/new/app/noticias/app.php on line 9
+[18-Apr-2020 17:21:07 America/Bogota] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home3/cooserv1/public_html/new/app/noticias/app.php on line 10
+[18-Apr-2020 17:21:07 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home3/cooserv1/public_html/new/noticias.php on line 53
+[18-Apr-2020 17:26:23 America/Bogota] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/cooserv1/public_html/new/app/conexion/db.php on line 12
+[18-Apr-2020 17:26:23 America/Bogota] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/cooserv1/public_html/new/app/noticias/app.php on line 9
+[18-Apr-2020 17:26:23 America/Bogota] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home3/cooserv1/public_html/new/app/noticias/app.php on line 10
+[18-Apr-2020 17:26:23 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home3/cooserv1/public_html/new/noticias.php on line 53
+[18-Apr-2020 17:26:31 America/Bogota] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/cooserv1/public_html/new/app/conexion/db.php on line 12
+[18-Apr-2020 17:26:31 America/Bogota] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/cooserv1/public_html/new/app/noticias/app.php on line 9
+[18-Apr-2020 17:26:31 America/Bogota] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home3/cooserv1/public_html/new/app/noticias/app.php on line 10
+[18-Apr-2020 17:26:31 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home3/cooserv1/public_html/new/noticias.php on line 53
+[18-Apr-2020 18:24:38 America/Bogota] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/cooserv1/public_html/new/app/conexion/db.php on line 12
+[18-Apr-2020 18:24:38 America/Bogota] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/cooserv1/public_html/new/app/noticias/app.php on line 9
+[18-Apr-2020 18:24:38 America/Bogota] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home3/cooserv1/public_html/new/app/noticias/app.php on line 10
+[18-Apr-2020 18:24:38 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home3/cooserv1/public_html/new/noticias.php on line 53
+[18-Apr-2020 18:25:12 America/Bogota] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/cooserv1/public_html/new/app/conexion/db.php on line 12
+[18-Apr-2020 18:25:12 America/Bogota] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/cooserv1/public_html/new/app/noticias/app.php on line 9
+[18-Apr-2020 18:25:12 America/Bogota] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home3/cooserv1/public_html/new/app/noticias/app.php on line 10
+[18-Apr-2020 18:25:12 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home3/cooserv1/public_html/new/noticias.php on line 53
+[20-Apr-2020 07:09:21 America/Bogota] PHP Warning:  Illegal string offset 'name' in /home3/cooserv1/public_html/new/formatos.php on line 9
+[20-Apr-2020 07:09:21 America/Bogota] PHP Warning:  Illegal string offset 'tmp_name' in /home3/cooserv1/public_html/new/formatos.php on line 10
+[20-Apr-2020 07:09:21 America/Bogota] PHP Warning:  Illegal string offset 'name' in /home3/cooserv1/public_html/new/formatos.php on line 9
+[20-Apr-2020 07:09:21 America/Bogota] PHP Warning:  Illegal string offset 'tmp_name' in /home3/cooserv1/public_html/new/formatos.php on line 10
+[20-Apr-2020 07:09:21 America/Bogota] PHP Warning:  Illegal string offset 'name' in /home3/cooserv1/public_html/new/formatos.php on line 9
+[20-Apr-2020 07:09:21 America/Bogota] PHP Warning:  Illegal string offset 'tmp_name' in /home3/cooserv1/public_html/new/formatos.php on line 10
+[20-Apr-2020 07:09:21 America/Bogota] PHP Warning:  Illegal string offset 'name' in /home3/cooserv1/public_html/new/formatos.php on line 9
+[20-Apr-2020 07:09:21 America/Bogota] PHP Warning:  Illegal string offset 'tmp_name' in /home3/cooserv1/public_html/new/formatos.php on line 10
+[20-Apr-2020 07:09:21 America/Bogota] PHP Warning:  Illegal string offset 'name' in /home3/cooserv1/public_html/new/formatos.php on line 9
+[20-Apr-2020 07:09:21 America/Bogota] PHP Warning:  Illegal string offset 'tmp_name' in /home3/cooserv1/public_html/new/formatos.php on line 10
+[20-Apr-2020 07:09:21 America/Bogota] PHP Warning:  Illegal string offset 'name' in /home3/cooserv1/public_html/new/formatos.php on line 9
+[20-Apr-2020 07:09:21 America/Bogota] PHP Warning:  Illegal string offset 'tmp_name' in /home3/cooserv1/public_html/new/formatos.php on line 10
+[20-Apr-2020 08:02:58 America/Bogota] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/cooserv1/public_html/new/app/conexion/db.php on line 12
+[20-Apr-2020 08:02:58 America/Bogota] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/cooserv1/public_html/new/app/noticias/app.php on line 9
+[20-Apr-2020 08:02:58 America/Bogota] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home3/cooserv1/public_html/new/app/noticias/app.php on line 10
+[20-Apr-2020 08:02:58 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home3/cooserv1/public_html/new/noticias.php on line 53
+[20-Apr-2020 08:15:58 America/Bogota] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/cooserv1/public_html/new/app/conexion/db.php on line 12
+[20-Apr-2020 08:15:58 America/Bogota] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/cooserv1/public_html/new/app/noticias/app.php on line 9
+[20-Apr-2020 08:15:58 America/Bogota] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home3/cooserv1/public_html/new/app/noticias/app.php on line 10
+[20-Apr-2020 08:15:58 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home3/cooserv1/public_html/new/noticias.php on line 53
+[20-Apr-2020 10:12:32 America/Bogota] PHP Warning:  A non-numeric value encountered in /home3/cooserv1/public_html/new/formatos.php on line 12
+[20-Apr-2020 11:09:34 America/Bogota] PHP Notice:  Undefined index: linea in /home3/cooserv1/public_html/new/form-contact-simulador.php on line 4
+[20-Apr-2020 11:09:34 America/Bogota] PHP Notice:  Undefined index: documento in /home3/cooserv1/public_html/new/form-contact-simulador.php on line 6
+[20-Apr-2020 11:09:34 America/Bogota] PHP Notice:  Undefined index: telefono in /home3/cooserv1/public_html/new/form-contact-simulador.php on line 7
+[20-Apr-2020 11:09:34 America/Bogota] PHP Notice:  Undefined index: direccion in /home3/cooserv1/public_html/new/form-contact-simulador.php on line 8
+[20-Apr-2020 11:15:53 America/Bogota] PHP Notice:  Undefined index: linea in /home3/cooserv1/public_html/new/form-contact-simulador.php on line 4
+[20-Apr-2020 11:15:53 America/Bogota] PHP Notice:  Undefined index: documento in /home3/cooserv1/public_html/new/form-contact-simulador.php on line 6
+[20-Apr-2020 11:15:53 America/Bogota] PHP Notice:  Undefined index: telefono in /home3/cooserv1/public_html/new/form-contact-simulador.php on line 7
+[20-Apr-2020 11:15:53 America/Bogota] PHP Notice:  Undefined index: direccion in /home3/cooserv1/public_html/new/form-contact-simulador.php on line 8
+[20-Apr-2020 11:19:11 America/Bogota] PHP Notice:  Undefined index: linea in /home3/cooserv1/public_html/new/form-contact-simulador.php on line 4
+[20-Apr-2020 11:19:11 America/Bogota] PHP Notice:  Undefined index: documento in /home3/cooserv1/public_html/new/form-contact-simulador.php on line 6
+[20-Apr-2020 11:19:11 America/Bogota] PHP Notice:  Undefined index: telefono in /home3/cooserv1/public_html/new/form-contact-simulador.php on line 7
+[20-Apr-2020 11:19:11 America/Bogota] PHP Notice:  Undefined index: direccion in /home3/cooserv1/public_html/new/form-contact-simulador.php on line 8
+[20-Apr-2020 11:20:24 America/Bogota] PHP Notice:  Undefined index: linea in /home3/cooserv1/public_html/new/form-contact-simulador.php on line 4
+[20-Apr-2020 11:20:24 America/Bogota] PHP Notice:  Undefined index: documento in /home3/cooserv1/public_html/new/form-contact-simulador.php on line 6
+[20-Apr-2020 11:20:24 America/Bogota] PHP Notice:  Undefined index: telefono in /home3/cooserv1/public_html/new/form-contact-simulador.php on line 7
+[20-Apr-2020 11:20:24 America/Bogota] PHP Notice:  Undefined index: direccion in /home3/cooserv1/public_html/new/form-contact-simulador.php on line 8
+[20-Apr-2020 11:26:42 America/Bogota] PHP Notice:  Undefined index: linea in /home3/cooserv1/public_html/new/form-contact-simulador.php on line 4
+[20-Apr-2020 11:26:42 America/Bogota] PHP Notice:  Undefined index: documento in /home3/cooserv1/public_html/new/form-contact-simulador.php on line 6
+[20-Apr-2020 11:26:42 America/Bogota] PHP Notice:  Undefined index: telefono in /home3/cooserv1/public_html/new/form-contact-simulador.php on line 7
+[20-Apr-2020 11:26:42 America/Bogota] PHP Notice:  Undefined index: direccion in /home3/cooserv1/public_html/new/form-contact-simulador.php on line 8
+[20-Apr-2020 11:26:49 America/Bogota] PHP Notice:  Undefined index: linea in /home3/cooserv1/public_html/new/form-contact-simulador.php on line 4
+[20-Apr-2020 11:26:49 America/Bogota] PHP Notice:  Undefined index: documento in /home3/cooserv1/public_html/new/form-contact-simulador.php on line 6
+[20-Apr-2020 11:26:49 America/Bogota] PHP Notice:  Undefined index: telefono in /home3/cooserv1/public_html/new/form-contact-simulador.php on line 7
+[20-Apr-2020 11:26:49 America/Bogota] PHP Notice:  Undefined index: direccion in /home3/cooserv1/public_html/new/form-contact-simulador.php on line 8
+[20-Apr-2020 11:27:01 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/cooserv1/public_html/new/index.php on line 3
+[20-Apr-2020 11:27:01 America/Bogota] PHP Notice:  Undefined index: linea in /home3/cooserv1/public_html/new/form-contact-simulador.php on line 4
+[20-Apr-2020 11:27:01 America/Bogota] PHP Notice:  Undefined index: documento in /home3/cooserv1/public_html/new/form-contact-simulador.php on line 6
+[20-Apr-2020 11:27:01 America/Bogota] PHP Notice:  Undefined index: telefono in /home3/cooserv1/public_html/new/form-contact-simulador.php on line 7
+[20-Apr-2020 11:27:01 America/Bogota] PHP Notice:  Undefined index: direccion in /home3/cooserv1/public_html/new/form-contact-simulador.php on line 8
+[20-Apr-2020 11:27:25 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/cooserv1/public_html/new/index.php on line 3
+[20-Apr-2020 11:27:25 America/Bogota] PHP Notice:  Undefined index: linea in /home3/cooserv1/public_html/new/form-contact-simulador.php on line 4
+[20-Apr-2020 11:27:25 America/Bogota] PHP Notice:  Undefined index: documento in /home3/cooserv1/public_html/new/form-contact-simulador.php on line 6
+[20-Apr-2020 11:27:25 America/Bogota] PHP Notice:  Undefined index: telefono in /home3/cooserv1/public_html/new/form-contact-simulador.php on line 7
+[20-Apr-2020 11:27:25 America/Bogota] PHP Notice:  Undefined index: direccion in /home3/cooserv1/public_html/new/form-contact-simulador.php on line 8
+[20-Apr-2020 11:27:46 America/Bogota] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/cooserv1/public_html/new/app/conexion/db.php on line 12
+[20-Apr-2020 11:27:46 America/Bogota] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/cooserv1/public_html/new/app/noticias/app.php on line 9
+[20-Apr-2020 11:27:46 America/Bogota] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home3/cooserv1/public_html/new/app/noticias/app.php on line 10
+[20-Apr-2020 11:27:46 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home3/cooserv1/public_html/new/noticias.php on line 53
+[20-Apr-2020 11:30:01 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/cooserv1/public_html/new/pqrs.php on line 4
+[20-Apr-2020 11:32:23 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/cooserv1/public_html/new/pqrs.php on line 4
+[20-Apr-2020 11:32:35 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/cooserv1/public_html/new/pqrs.php on line 4
+[20-Apr-2020 11:32:35 America/Bogota] PHP Notice:  Undefined index: linea in /home3/cooserv1/public_html/new/form-contact-simulador.php on line 4
+[20-Apr-2020 11:32:35 America/Bogota] PHP Notice:  Undefined index: documento in /home3/cooserv1/public_html/new/form-contact-simulador.php on line 6
+[20-Apr-2020 11:32:35 America/Bogota] PHP Notice:  Undefined index: telefono in /home3/cooserv1/public_html/new/form-contact-simulador.php on line 7
+[20-Apr-2020 11:32:35 America/Bogota] PHP Notice:  Undefined index: direccion in /home3/cooserv1/public_html/new/form-contact-simulador.php on line 8
+[20-Apr-2020 11:37:05 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/cooserv1/public_html/new/index.php on line 3
+[20-Apr-2020 11:37:07 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/cooserv1/public_html/new/contacto.php on line 4
+[20-Apr-2020 11:37:37 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/cooserv1/public_html/new/index.php on line 3
+[20-Apr-2020 11:39:59 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/cooserv1/public_html/new/index.php on line 3
+[20-Apr-2020 11:41:17 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/cooserv1/public_html/new/index.php on line 3
+[20-Apr-2020 13:13:09 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/cooserv1/public_html/new/index.php on line 3
+[20-Apr-2020 13:18:04 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/cooserv1/public_html/new/index.php on line 3
+[20-Apr-2020 13:19:14 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/cooserv1/public_html/new/index.php on line 3
+[20-Apr-2020 13:19:19 America/Bogota] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/cooserv1/public_html/new/app/conexion/db.php on line 12
+[20-Apr-2020 13:19:19 America/Bogota] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/cooserv1/public_html/new/app/noticias/app.php on line 9
+[20-Apr-2020 13:19:19 America/Bogota] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home3/cooserv1/public_html/new/app/noticias/app.php on line 10
+[20-Apr-2020 13:19:19 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home3/cooserv1/public_html/new/noticias.php on line 53
+[20-Apr-2020 13:21:17 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/cooserv1/public_html/new/contacto.php on line 4
+[20-Apr-2020 21:14:10 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/cooserv1/public_html/new/index.php on line 3
+[21-Apr-2020 08:00:50 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/cooserv1/public_html/new/index.php on line 3
+[21-Apr-2020 08:01:00 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/cooserv1/public_html/new/index.php on line 3
+[21-Apr-2020 08:03:31 America/Bogota] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/cooserv1/public_html/new/app/conexion/db.php on line 12
+[21-Apr-2020 08:03:31 America/Bogota] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/cooserv1/public_html/new/app/noticias/app.php on line 9
+[21-Apr-2020 08:03:31 America/Bogota] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home3/cooserv1/public_html/new/app/noticias/app.php on line 10
+[21-Apr-2020 08:03:31 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home3/cooserv1/public_html/new/noticias.php on line 53
+[21-Apr-2020 08:17:02 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/cooserv1/public_html/new/index.php on line 3
+[21-Apr-2020 08:25:42 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/cooserv1/public_html/new/index.php on line 3
+[21-Apr-2020 08:41:50 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/cooserv1/public_html/new/index.php on line 3
+[21-Apr-2020 08:43:57 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/cooserv1/public_html/new/index.php on line 3
+[22-Apr-2020 09:41:50 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/cooserv1/public_html/new/index.php on line 3
+[22-Apr-2020 09:42:35 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/cooserv1/public_html/new/contacto.php on line 4
+[22-Apr-2020 11:39:47 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/cooserv1/public_html/new/index.php on line 3
+[24-Apr-2020 05:16:46 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/cooserv1/public_html/new/index.php on line 3
+[24-Apr-2020 05:20:54 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/cooserv1/public_html/new/pqrs.php on line 4
+[24-Apr-2020 07:01:24 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/cooserv1/public_html/new/index.php on line 3
+[24-Apr-2020 07:07:45 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/cooserv1/public_html/new/pqrs.php on line 4
+[24-Apr-2020 07:08:27 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/cooserv1/public_html/new/contacto.php on line 4
+[24-Apr-2020 07:08:52 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/cooserv1/public_html/new/contacto.php on line 4
+[24-Apr-2020 07:11:06 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/cooserv1/public_html/new/contacto.php on line 4
+[25-Apr-2020 12:58:14 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/cooserv1/public_html/new/index.php on line 3
+[29-Apr-2020 19:38:36 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/cooserv1/public_html/new/index.php on line 3
+[01-May-2020 11:32:27 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/cooserv1/public_html/new/index.php on line 3
+[06-May-2020 09:46:56 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/cooserv1/public_html/new/index.php on line 3
+[06-May-2020 09:47:02 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/cooserv1/public_html/new/index.php on line 3
+[06-May-2020 09:47:07 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/cooserv1/public_html/new/index.php on line 3
+[06-May-2020 09:47:26 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/cooserv1/public_html/new/index.php on line 3
+[06-May-2020 09:49:00 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/cooserv1/public_html/new/index.php on line 3
+[06-May-2020 09:53:43 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/cooserv1/public_html/new/index.php on line 3
+[06-May-2020 10:08:47 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/cooserv1/public_html/new/index.php on line 3
+[06-May-2020 10:09:13 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/cooserv1/public_html/new/index.php on line 3
+[06-May-2020 10:09:44 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/cooserv1/public_html/new/index.php on line 3
+[06-May-2020 10:14:30 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/cooserv1/public_html/new/index.php on line 3
+[06-May-2020 10:23:52 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/cooserv1/public_html/new/index.php on line 3
+[06-May-2020 10:27:04 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/cooserv1/public_html/new/index.php on line 3
+[06-May-2020 10:40:28 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/cooserv1/public_html/new/index.php on line 3
+[06-May-2020 10:45:29 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/cooserv1/public_html/new/pqrs.php on line 4
+[06-May-2020 10:51:47 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/cooserv1/public_html/new/contacto.php on line 4
+[06-May-2020 10:53:51 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/cooserv1/public_html/new/index.php on line 3
+[06-May-2020 10:55:10 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/cooserv1/public_html/new/contacto.php on line 4
+[06-May-2020 11:08:18 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/cooserv1/public_html/new/pqrs.php on line 4
+[06-May-2020 17:11:18 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/cooserv1/public_html/new/index.php on line 3
