@@ -30,7 +30,7 @@
 
     <!-- Favicon -->
 
-    <link rel="icon" href="img/images/favicon.png">
+    <link rel="icon" href="img/images/logo_linea.png">
 
 
 

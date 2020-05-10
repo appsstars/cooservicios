@@ -14,7 +14,7 @@
                             <p style="color: #13287e !important; text-align: left;">
                                 Somos el apoyo de nuestros Asociados en la promoción de su calidad de vida y dignidad humana, buscando eficiencia
                                 y celeridad en los procesos, de manera responsable, competitiva y sostenible, mediante la prestación de soluciones 
-                                de AHORRO Y CRÉDITO, promoviendo el modelo Cooperativo entre sus integrantes y en la comunidad en general.
+                                de CRÉDITO, promoviendo el modelo Cooperativo entre sus integrantes y en la comunidad en general.
                             </p>
                         </div>
                         <!-- Social Icon -->

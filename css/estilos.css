@@ -2,57 +2,78 @@
 =================================================
 ---------estilos boton whatsapp-----------------
 ================================================= */
-.appWhatsapp{
+
+.appWhatsapp {
     position: fixed;
     left: 26px;
     bottom: 45px;
     width: 66px;
     z-index: 1000;
 }
-.appWhatsapp:hover{
+
+.appWhatsapp:hover {
     transform: scale(1.2);
 }
-.appWhatsapp img{
+
+.appWhatsapp img {
     width: 100%;
     height: auto;
 }
-.puntos{
+
+.puntos {
     text-align: center;
 }
-#detalle-noticias{
+
+#detalle-noticias {
     z-index: 5000;
     position: absolute;
 }
-.noti{
+
+.noti {
     background-color: #f3f3f3;
 }
-.caja_noti{
+
+.caja_noti {
     border-right: 1px dotted #46b6cf;
     border-bottom: 2px dotted #46b6cf;
     border-radius: 25px;
     margin-top: 10px;
     padding: 20px;
 }
-.logo1{
-    width: 100px !important;
+
+.logo1 {
+    width: 80px !important;
     height: auto;
     margin-bottom: 1px !important;
-    
 }
-.nombre{
-   border-radius: 10px;
+
+.nombre {
+    border-radius: 10px;
     /* background-color: #004e5a !important; */
-   color: #f8f9fa;
+    color: #f8f9fa;
 }
-.icon_index{
-   
+
+.icon_index {
     font-size: 60px;
-    
 }
-#modal_resena{
+
+#modal_resena {
     z-index: 5000 !important;
     position: absolute;
 }
-.resena{
+
+.resena {
     background-color: #00b397 !important;
+}
+
+
+/* ==================================slider home=======================
+=======================================================================#004552 */
+
+.section_home {
+    border-top: 80px #46b6cf solid;
+}
+
+.carousel-item img {
+    max-height: 650px !important;
 }

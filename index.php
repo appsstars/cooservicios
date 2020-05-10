@@ -28,15 +28,15 @@ if(!empty($_POST['correo'])){
 ?>
 
 
-    <section class="welcome_area demo4 flex align-items-center"></div>
+    <section class="section_home"></div>
 
 
 
-        <div class="container">
 
-            <div class="row align-items-center">
 
-                <!-- Welcome Content -->
+            <!-- <div class="row align-items-center">
+
+                
 
                 <div class="col-12 col-lg-6 col-md-12">
 
@@ -50,7 +50,7 @@ if(!empty($_POST['correo'])){
 
                         <div class="dream-btn-group wow fadeInUp" data-wow-delay="0.4s">
 
-                            <a href="servicios" class="btn dream-btn">Servicios</a>
+                            <a href="servicios" class="btn dream-btn">Serviciossss</a>
 
                             <small><a href="contacto" class="btn dream-btn btn-sm">Contáctenos</a></small>
 
@@ -74,9 +74,24 @@ if(!empty($_POST['correo'])){
 
                
 
-            </div>
+            </div> -->
+            <div id="carouselExampleSlidesOnly" class="slider_home" data-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                    <img class="d-block w-100" src="img/home/1.jpg" alt="First slide" style="height: 100%">
+                    </div>
+                    <div class="carousel-item">
+                    <img class="d-block w-100" src="img/home/2.jpg" alt="Second slide">
+                    </div>
+                    <div class="carousel-item">
+                    <img class="d-block w-100" src="img/home/3.jpg" alt="Third slide">
+                    </div>
+                        
+                </div>
+                
+             </div>
 
-        </div>
+        
 
         
 
@@ -352,11 +367,12 @@ if(!empty($_POST['correo'])){
 
                             <div class="icon-img-box">
 
-                            <i class="icon_index fas fa-donate" style="color: #ff5722"></i>
+                            <!-- <i class="icon_index fas fa-donate" style="color: #ff5722"></i> -->
+                            <i class="icon_index fas fa-award" style="color: #ff5722 "></i>
 
                             </div>
 
-                            <h3><a href="#">SÓLIDAS Y RENTABLES MODALIDADES DE AHORRO.</a></h3>
+                            <h3><a href="#">DERECHO A PARTICIPAR EN SORTEOS Y PROMOCIONES.</a></h3>
 
                             <div class="text"></div>
 
@@ -436,11 +452,11 @@ if(!empty($_POST['correo'])){
 
                             <div class="icon-img-box">
 
-                            <i class="icon_index fas fa-award" style="color: #20B2AA"></i>
+                            <!-- <i class="icon_index fas fa-award" style="color: #20B2AA "></i> -->
 
                             </div>
 
-                            <h3><a href="#">DERECHO A PARTICIPAR EN SORTEOS Y PROMOCIONES.</a></h3>
+                            <!-- <h3><a href="#">COOSERVICIOS O.C</a></h3> -->
 
                             <div class="text"></div>
 
