@@ -56,108 +56,74 @@
 
 
 
-<body class="light-version">
+    <body class="light-version">
 
-    <!-- Preloader -->
+        <!-- Preloader -->
 
-    <div id="preloader">
+        <div id="preloader">
 
-        <div class="preload-content">
+            <div class="preload-content">
 
-            <div id="dream-load"></div>
+                <div id="dream-load"></div>
 
-        </div>
-
-    </div>
-
-
-
-    <!-- ##### Header Area Start ##### -->
-
-    
-
-    <!-- ##### Header Area End ##### -->
-
-<header class="header-area wow fadeInDown" data-wow-delay="0.2s">
-
-    <div class="classy-nav-container breakpoint-off">
-
-        <div class="container">
-
-            <!-- Classy Menu -->
-
-            <nav class="classy-navbar justify-content-between" id="dreamNav">
-
-
-
-                <!-- Logo -->
-
-               <a class="nav-brand light" href="index.php"><img src="img/images/logo.png" class="logo1"><span class="nombre">Cooservicios</span> </a>  
-
-
-
-                <!-- Navbar Toggler -->
-
-                <div class="classy-navbar-toggler">
-
-                    <span class="navbarToggler"><span></span><span></span><span></span></span>
-
-                </div>
-
-
-
-                <!-- Menu -->
-
-                <div class="classy-menu">
-
-
-
-                    <!-- close btn -->
-
-                    <div class="classycloseIcon">
-
-                        <div class="cross-wrap"><span class="top"></span><span class="bottom"></span></div>
-
-                    </div>
-
-
-
-                    <!-- Nav Start -->
-
-                    <div class="classynav">
-
-                        <ul id="nav">
-
-                            <li><a href="./">Inicio</a>
-
-                            </li>
-
-                            <li><a href="nosotros">Nosotros</a></li>
-
-                            <li><a href="servicios">Servicios</a></li>
-
-                            <li><a href="noticias">Noticias</a></li>
-
-                            <li><a href="galeria">Galeria</a></li>
-
-                            <li><a href="pqrs">PQRS</a></li>
-
-                            <li><a href="anexos">Anexos</a></li>
-
-                            <li><a href="contacto">Contacto</a></li>
-
-                        </ul>
-
-                    </div>
-
-                    <!-- Nav End -->
-
-                </div>
-
-            </nav>
+            </div>
 
         </div>
 
-    </div>
 
-</header>
+
+        <!-- ##### Header Area Start ##### -->
+
+        
+
+        <!-- ##### Header Area End ##### -->
+
+        <header class="header-area wow fadeInDown" data-wow-delay="0.2s">
+
+            <div class="classy-nav-container breakpoint-off">
+
+                <div class="container">
+                    <!-- Classy Menu -->
+                    <nav class="classy-navbar justify-content-between" id="dreamNav">
+                        <!-- Logo -->
+                         <a class="nav-brand light" href="index.php"><img src="img/images/logo.png" class="logo1"><span class="nombre">Cooservicios</span> </a>  
+                       <!-- Navbar Toggler -->
+                        <div class="classy-navbar-toggler">
+                            <span class="navbarToggler"><span></span><span></span><span></span></span>
+                        </div>
+                        <!-- Menu -->
+                        <div class="classy-menu">
+                            <!-- close btn -->
+                            <div class="classycloseIcon">
+                                <div class="cross-wrap"><span class="top"></span><span class="bottom"></span></div>
+                            </div>
+                            <!-- Nav Start -->
+                            <div class="classynav">
+                                <ul id="nav">
+                                    <li><a href="./">Inicio</a></li>                                    
+                                    <li><a href="nosotros">Nosotros</a></li>
+                                    <li><a href="noticias">Noticias</a></li>
+                                    <li><a href="galeria">Galeria</a></li>
+                                    <li class="nav-item dropdown">
+                                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        Servicios
+                                        </a>
+                                        <div class="dropdown-menu" aria-labelledby="navbarDropdown" style="background-color: #d2f6f5 !important">
+                                            <a class="dropdown-item" href="servicios" style="color: black !important">Nuestros Servicios</a>
+                                            <a class="dropdown-item" href="pqrs" style="color: black !important">PQRS</a>
+                                            <a class="dropdown-item" href="anexos" style="color: black !important">Anexos</a>
+                                        </div>
+                                    </li>
+                                    <li><a href="contacto">Contacto</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </nav>
+
+                </div>
+
+            </div>
+
+        </header>
+    </body>
+</html>

@@ -28,7 +28,7 @@ if(!empty($_POST['correo'])){
 ?>
 
 
-    <section class="section_home"></div>
+    <section class="col-lg-12 section_home"></div>
 
 
 
@@ -75,19 +75,69 @@ if(!empty($_POST['correo'])){
                
 
             </div> -->
+        <div class="contain">
             <div id="carouselExampleSlidesOnly" class="slider_home" data-ride="carousel">
                 <div class="carousel-inner">
-                    <div class="carousel-item active">
-                    <img class="d-block w-100" src="img/home/1.jpg" alt="First slide" style="height: 100%">
+                    <div class=" carousel-item active" >                       
+                        <img class="d-block w-100" src="img/home/1.jpg" alt="First slide" style="height: 100%">
+                        <div class="welcome-content v2" style="position: absolute; left: 100px; bottom: 10%; z-index: 3;">
+
+                            <h1 class="wow fadeInUp w-text" data-wow-delay="0.2s" style="color: #13287e !important">Afíliate con nosotros</h1>
+
+                            <p class="wow fadeInUp" data-wow-delay="0.3s" style="color: black !important">Ofrecemos servicios crédito que se adaptan a tus necesidades,<br>
+                            Somos la mejor opción para respaldar tus sueños.</p>
+
+                            <div class="dream-btn-group wow fadeInUp" data-wow-delay="0.4s">
+
+                                <a href="servicios" class="btn dream-btn">Servicios</a>
+
+                                <small><a href="contacto" class="btn dream-btn btn-sm">Contáctenos</a></small>
+
+
+                            </div>
+                        </div>
                     </div>
                     <div class="carousel-item">
-                    <img class="d-block w-100" src="img/home/2.jpg" alt="Second slide">
+                       <img class="d-block w-100" src="img/home/2.jpg" alt="Second slide">
+                       <div class="welcome-content v2" style="position: absolute; left: 100px; bottom: 10%; z-index: 3;">
+
+                            <h1 class="wow fadeInUp w-text" data-wow-delay="0.2s" style="color: #13287e !important">Afíliate con nosotros</h1>
+
+                            <p class="wow fadeInUp" data-wow-delay="0.3s" style="color: black !important">Ofrecemos servicios crédito que se adaptan a tus necesidades,<br>
+                            Somos la mejor opción para respaldar tus sueños.</p>
+
+                            <div class="dream-btn-group wow fadeInUp" data-wow-delay="0.4s">
+
+                                <a href="servicios" class="btn dream-btn">Servicios</a>
+
+                                <small><a href="contacto" class="btn dream-btn btn-sm">Contáctenos</a></small>
+
+
+                            </div>
+                        </div>
                     </div>
                     <div class="carousel-item">
-                    <img class="d-block w-100" src="img/home/3.jpg" alt="Third slide">
+                        <img class="d-block w-100" src="img/home/3.jpg" alt="Third slide">
+                        <div class="welcome-content v2" style="position: absolute; left: 100px; bottom: 10%; z-index: 3;">
+
+                            <h1 class="wow fadeInUp w-text" data-wow-delay="0.2s" style="color: #13287e !important">Afíliate con nosotros</h1>
+
+                            <p class="wow fadeInUp" data-wow-delay="0.3s" style="color: black !important">Ofrecemos servicios crédito que se adaptan a tus necesidades,<br>
+                            Somos la mejor opción para respaldar tus sueños.</p>
+
+                            <div class="dream-btn-group wow fadeInUp" data-wow-delay="0.4s">
+
+                                <a href="servicios" class="btn dream-btn">Servicios</a>
+
+                                <small><a href="contacto" class="btn dream-btn btn-sm">Contáctenos</a></small>
+
+
+                            </div>
+                        </div>
                     </div>
                         
                 </div>
+               
                 
              </div>
 
@@ -116,11 +166,8 @@ if(!empty($_POST['correo'])){
             <div class="section-heading text-center">
 
                 <!-- Dream Dots -->
-
                 <div class="dream-dots justify-content-center wow fadeInUp" data-wow-delay="0.2s">
-
                     <span></span><span></span><span></span><span></span><span></span><span></span><span></span>
-
                 </div>
 
                 <h2 class="wow fadeInUp" data-wow-delay="0.3s">Nuestros servicios</h2>

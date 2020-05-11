@@ -4407,7 +4407,7 @@ body.light-version {
     /* background: #fff !important; */
     background-image: url("../img/images/logo_linea.png");
     background-repeat: no-repeat;
-    background-size: 50% 50%;
+    background-size: 50% auto;
     background-attachment: fixed;
     background-position: center;
 }

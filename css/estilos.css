@@ -77,3 +77,9 @@
 .carousel-item img {
     max-height: 650px !important;
 }
+
+.contain {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 50px;
+}

@@ -105,7 +105,7 @@ if(!empty($_POST['correo'])){
 
                         <h2 class="wow fadeInUp" data-wow-delay="0.3s">Peticiones, Quejas, Recursos y Sujerencias</h2>
 
-                        <p class="wow fadeInUp" data-wow-delay="0.4s">Deje su (PQRS) y en breve las estaremos revizando.</p>
+                        <p class="wow fadeInUp" data-wow-delay="0.4s">Deje su (PQRS) y en breve la estaremos revisando.</p>
 
                     </div>
 
