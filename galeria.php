@@ -8,9 +8,9 @@
     }
 </style>
 
-<div class="breadcumb-area clearfix dzsparallaxer auto-init" data-options='{direction: "normal"}'>
+<div class="cabezera_galeria" data-options='{direction: "normal"}'>
 
-    <div class="divimage dzsparallaxer--target" style="width: 101%; height: 130%; background-image: url(img/images/galeria.jpg)"></div>
+    <!-- <div class="divimage dzsparallaxer--target" style="width: 101%; height: 130%; background-image: url(img/images/galeria.jpg)"></div> -->
 
     <!-- breadcumb content -->
     <div class="breadcumb-content">

@@ -4,9 +4,9 @@
 
 	 private $servidor = "localhost" ;
 
-	 private $usuario = "cooserv1_web";
+	 private $usuario = "root";
 
-	 private $password = "cooserv1_web#2020";
+	 private $password = "";
 
 	 private $db = "cooserv1_web";
 

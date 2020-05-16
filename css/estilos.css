@@ -83,3 +83,50 @@
     height: auto;
     margin-bottom: 50px;
 }
+
+
+/* ==================================cabezera=======================
+=======================================================================#004552 */
+
+.cabezera_nosotros {
+    height: 600px;
+    width: 100%;
+    background-image: url("../img/nosotros/1.jpg");
+    border-top: 80px #46b6cf solid;
+}
+
+.cabezera_noticia {
+    height: 600px;
+    width: 100%;
+    background-image: url("../img/noticias/1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    border-top: 80px #46b6cf solid;
+}
+
+.cabezera_galeria {
+    height: 600px;
+    width: 100%;
+    background-image: url("../img/galeria/cabezera/1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    border-top: 80px #46b6cf solid;
+}
+
+.cabezera_servicios {
+    height: 600px;
+    width: 100%;
+    background-image: url("../img/servicios/1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    border-top: 80px #46b6cf solid;
+}
+
+.cabezera_pqrs {
+    height: 600px;
+    width: 100%;
+    background-image: url("../img/pqrs/1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    border-top: 80px #46b6cf solid;
+}

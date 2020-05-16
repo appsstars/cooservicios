@@ -16,9 +16,9 @@
 
     <!-- ##### Welcome Area Start ##### -->
 
-    <div class="breadcumb-area clearfix dzsparallaxer auto-init" data-options='{direction: "normal"}'>
+    <div class="cabezera_noticia" data-options='{direction: "normal"}'>
 
-        <div class="divimage dzsparallaxer--target" style="width: 101%; height: 130%; background-image: url(img/images/noticias.jpg)"></div>
+        <!-- <div class="divimage dzsparallaxer--target" style="width: 101%; height: 130%; background-image: url(img/images/noticias.jpg)"></div> -->
 
         <!-- breadcumb content -->
 

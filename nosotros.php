@@ -6,10 +6,10 @@
 
     <!-- ##### Welcome Area Start ##### -->
 
-    <div class="breadcumb-area clearfix dzsparallaxer auto-init" data-options='{direction: "normal"}'>
+    <div class="cabezera_nosotros" data-options='{direction: "normal"}'>
 
-        <div class="divimage dzsparallaxer--target" style="width: 101%; height: 130%; background-image: url(img/images/nosotros.jpg)"></div>
-
+        <!-- <div class="divimage dzsparallaxer--target" style="width: 101%; height: 130%; background-image: url(img/nosotros/1.jpg); margin-top:60px !important;"></div> -->
+       
         <!-- breadcumb content -->
 
         <div class="breadcumb-content">
@@ -24,9 +24,9 @@
 
                             <h2 class="w-text title wow fadeInUp" data-wow-delay="0.2s">Nosotros</h2>
 
-                            <ol class="breadcrumb justify-content-center wow fadeInUp" data-wow-delay="0.4s">
+                            <ol class="breadcrumb justify-content-center wow fadeInUp" data-wow-delay="0.4s" >
 
-                                <li class="breadcrumb-item"><a href="index.php">Inicio</a></li>
+                                <li class="breadcrumb-item" ><a href="index.php">Inicio</a></li>
 
                                 <li class="breadcrumb-item active" aria-current="page">Nosotros</li>
 
@@ -68,9 +68,9 @@
 
                 <h2 class="wow fadeInUp" data-wow-delay="0.3s">Quienes Somos</h2>
 
-                <p class="wow fadeInUp" data-wow-delay="0.4s">
+                <p class="wow fadeInUp" data-wow-delay="0.4s" style="color: #5a5959">
 
-                    Cooperativa especializada y preferida en la región, en la prestación de servicios de AHORRO Y CREDITO,
+                    Cooperativa especializada y preferida en la región, en la prestación de servicios de CREDITO,
 
                     buscando y garantizando la satisfacción de sus Asociados y el mejoramiento de su calidad de vida,
 
@@ -86,11 +86,28 @@
 
                 <div class="row align-items-center">
 
-                    <div class="service-img-wrapper how col-lg-6 col-md-12 col-sm-12">
+                    <!-- <div class="service-img-wrapper how col-lg-6 col-md-12 col-sm-12">
 
-                        <div class="image-box">
+                        <div class="image-box" >
 
-                            <img src="img/core-img/digital-4.png" class="center-block img-responsive phone-img" alt="">
+                            <img src="img/nosotros/2.jpg" class="center-block img-responsive phone-img" alt="" style="height: 60%">
+
+                        </div>
+
+                    </div> -->
+                    <div class="col-lg-6 col-md-6  col-sm-12">
+
+                        <div class="welcome-video-area fadeInUp" data-wow-delay="0.5s" style="background-color: #fff !important; border-radius:10px;">
+
+                            <!-- Welcome Thumbnail -->
+
+                            <div class="welcome-thumb">
+
+                                <img src="img/nosotros/2.jpg" alt="">
+
+                            </div>
+
+                            <!-- Video Icon -->
 
                         </div>
 
@@ -244,7 +261,7 @@
 
 
 
-                    <div class="col-12 col-lg-6">
+                    <div class="col-12 col-lg-6" style="background-color: white; border-radius:10px">
 
                         <div class="who-we-contant">
 
@@ -344,7 +361,7 @@
 
             
 
-                <div class="row align-items-center">
+                <div class="row align-items-center" style="background-color: #f6f3fd !important; border-radius:5px">
 
                     
 
@@ -502,7 +519,7 @@
 
                     <div class="col-lg-6 col-md-6 col-sm-12">
 
-                        <div class="services-block-four" style="margin-bottom:0">
+                        <div class="services-block-four" style="background-color: #f8f9fa !important">
 
                             <div class="inner-box">
 
@@ -528,7 +545,7 @@
 
 
 
-                        <div class="services-block-four mt-s">
+                        <div class="services-block-four mt-s"style="background-color: #f8f9fa">
 
                             <div class="inner-box">
 
@@ -552,7 +569,7 @@
 
                         </div>
 
-                        <div class="services-block-four">
+                        <div class="services-block-four " style="background-color: #f8f9fa">
 
                             <div class="inner-box">
 
