@@ -105,12 +105,14 @@
 }
 
 .cabezera_galeria {
-    height: 600px;
-    width: 100%;
-    background-image: url("../img/galeria/cabezera/1.jpg");
+    /* height: 600px; */
+    /* width: 100%; */
+    background-image: url(../img/galeria/cabezera/1.jpg);
     background-position: center;
     background-repeat: no-repeat;
     border-top: 80px #46b6cf solid;
+    background-size: cover;
+    padding: 203px 0 203px 0;
 }
 
 .cabezera_servicios {

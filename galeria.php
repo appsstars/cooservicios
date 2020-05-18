@@ -8,24 +8,18 @@
     }
 </style>
 
-<div class="cabezera_galeria" data-options='{direction: "normal"}'>
-
-    <!-- <div class="divimage dzsparallaxer--target" style="width: 101%; height: 130%; background-image: url(img/images/galeria.jpg)"></div> -->
-
-    <!-- breadcumb content -->
-    <div class="breadcumb-content">
-        <div class="container h-100">
-            <div class="row h-100 align-items-center">
-                <div class="col-12">
-                    <nav aria-label="breadcrumb" class="breadcumb--con text-center">
-                        <h2 class="w-text title wow fadeInUp" data-wow-delay="0.2s">Galeria</h2>
-                        <ol class="breadcrumb justify-content-center wow fadeInUp" data-wow-delay="0.4s">
-                            <li class="breadcrumb-item"><a href="#">Inicio</a></li>
-                            <li class="breadcrumb-item active" aria-current="page">Galeria</li>
-                        </ol>
-                    </nav>
-                </div>
-            </div>
+<div class="cabezera_galeria">
+    <div class="row">
+        <div class="container">
+            <div class="col-12">
+                <nav aria-label="breadcrumb" class="breadcumb--con text-center">
+                    <h2 class="w-text title wow fadeInUp" data-wow-delay="0.2s">Galeria</h2>
+                    <ol class="breadcrumb justify-content-center wow fadeInUp" data-wow-delay="0.4s">
+                        <li class="breadcrumb-item"><a href="#">Inicio</a></li>
+                        <li class="breadcrumb-item active" aria-current="page">Galeria</li>
+                    </ol>
+                </nav>
+            </div>   
         </div>
     </div>
 </div>

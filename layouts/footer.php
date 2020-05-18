@@ -11,7 +11,7 @@
                             <div class="footer-logo">
                             <a class="nav-brand light" href="index.php"><img src="img/images/logo.png" class="logo1"><span class="nombre" style="color: #fefeff">Cooservicios</span> </a> 
                             </div>
-                            <p style="color: #13287e !important; text-align: left;">
+                            <p style="text-align: left;">
                                 Somos el apoyo de nuestros Asociados en la promoción de su calidad de vida y dignidad humana, buscando eficiencia
                                 y celeridad en los procesos, de manera responsable, competitiva y sostenible, mediante la prestación de soluciones 
                                 de CRÉDITO, promoviendo el modelo Cooperativo entre sus integrantes y en la comunidad en general.
@@ -32,11 +32,11 @@
                     <div class="contact_info_area d-sm-flex justify-content-between">
                         <!-- Content Info -->
                         <div class="contact_info mt-x text-center fadeInUp" data-wow-delay="0.3s" style="margin-top: 25px">
-                            <h5 style="color: #13287e !important">INFORMACION</h5><br>
-                            <a href="#" ><p style="color: #13287e !important;"><B>TEL: </B>740 68 89</p></a>
-                            <a href="#"><P style="color: #13287e !important;"><B>CEL: </B>3133329704 - 3168457954</p></a>
-                            <a href="#"><P style="color: #13287e !important;"><B>CEL: </B>3168583451 - 3162214729</p></a>
-                            <a href="#"><P style="color: #13287e !important;"><B>Correo: </B>informacion@cooservicios.com.co</p></a>
+                            <h5 style="">INFORMACION</h5><br>
+                            <a href="#" ><p><B>TEL: </B>740 68 89</p></a>
+                            <a href="#"><P><B>CEL: </B>3133329704 - 3168457954</p></a>
+                            <a href="#"><P><B>CEL: </B>3168583451 - 3162214729</p></a>
+                            <a href="#"><P><B>Correo: </B>informacion@cooservicios.com.co</p></a>
                            
                         </div>
                     </div>
@@ -46,9 +46,9 @@
                     <!-- Content Info -->
                     <div class="contact_info_area d-sm-flex justify-content-between">
                         <div class="contact_info mt-s text-center fadeInUp" data-wow-delay="0.2s" style="margin-top: 25px">
-                            <h5 style="color: #13287e !important">HORARIO</h5><br>
-                            <a href="#" ><p style="color: #13287e !important;"><B>Lunes a viernes: </B>de 8:00 am a 11:30 Am y de 2:00 Pm a 5: pm</p></a>
-                            <a href="#" ><p style="color: #13287e !important;"><B>Sabados: </B>de 8:00 am a 12:00 Pm.</p></a>
+                            <h5 style="">HORARIO</h5><br>
+                            <a href="#" ><p><B>Lunes a viernes: </B>de 8:00 am a 11:30 Am y de 2:00 Pm a 5: pm</p></a>
+                            <a href="#" ><p><B>Sabados: </B>de 8:00 am a 12:00 Pm.</p></a>
                         </div>
                     </div>
                 </div>
@@ -58,7 +58,7 @@
                     <div class="contact_info_area d-sm-flex justify-content-between">
                         <!-- Content Info -->
                         <div class="contact_info mt-s text-center fadeInUp" data-wow-delay="0.4s" style="margin-top: 25px">
-                            <h5 style="color: #13287e !important">ENLACES DE INTERES</h5><br>
+                            <h5 style="">ENLACES DE INTERES</h5><br>
                             <div class="col-md-6">
                                 <a href="https://ascoop.coop/" target="_black"><img src="img/core-img/ascoop.png" alt=""></a>
                             </div>
@@ -98,8 +98,8 @@
 
     <!-- script js -->
     <script src="js/script.js"></script>
-    <script src="js/app.js"></script>
-    <script src="db/services.js"></script>
+
+  
 
 </body>
 

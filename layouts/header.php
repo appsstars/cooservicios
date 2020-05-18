@@ -108,11 +108,7 @@
                                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                         Servicios
                                         </a>
-                                        <div class="dropdown-menu" aria-labelledby="navbarDropdown" style="background-color: #d2f6f5 !important">
-                                            <a class="dropdown-item" href="servicios" style="color: black !important">Nuestros Servicios</a>
-                                            <a class="dropdown-item" href="pqrs" style="color: black !important">PQRS</a>
-                                            <a class="dropdown-item" href="anexos" style="color: black !important">Anexos</a>
-                                        </div>
+                                        <ul class="dropdown-menu"></ul>
                                     </li>
                                     <li><a href="contacto">Contacto</a></li>
                                     <li><a href="#">Login</a></li>
@@ -127,5 +123,3 @@
             </div>
 
         </header>
-    </body>
-</html>

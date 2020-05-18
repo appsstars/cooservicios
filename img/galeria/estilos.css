@@ -1,6 +1,5 @@
 .contenedor {
 	width: 90%;
-	max-width: 1110px;
 	margin: auto;
 }
 
@@ -74,10 +73,16 @@ header .categorias a.activo {
 
 .grid .item {
 	position: absolute;
-	display: block;
-	padding: 0;
-	margin: 10px;
-	width: calc(33.333333% - 20px);
+    display: block;
+    margin: 10px;
+    width: calc(33.333333% - 20px);
+    /* width: 159px; */
+    max-height: 230px !important;
+    overflow: hidden;
+    /* background-size: cover; */
+    /* background-attachment: fixed; */
+    background: #f7f7f7;
+    padding: 10px;
 }
 
 .grid .item-contenido {

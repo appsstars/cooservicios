@@ -30,50 +30,6 @@ if(!empty($_POST['correo'])){
     <section class="col-lg-12 section_home"></div>
 
 
-
-
-
-            <!-- <div class="row align-items-center">
-
-                
-
-                <div class="col-12 col-lg-6 col-md-12">
-
-                    <div class="welcome-content v2">
-
-                       
-
-                        <h1 class="wow fadeInUp w-text" data-wow-delay="0.2s">Afíliate con nosotros</h1>
-
-                        <p class="wow fadeInUp" data-wow-delay="0.3s">Ofrecemos servicios de ahorro y crédito que se adaptan a tus necesidades, Somos la mejor opción para respaldar tus sueños.</p>
-
-                        <div class="dream-btn-group wow fadeInUp" data-wow-delay="0.4s">
-
-                            <a href="servicios" class="btn dream-btn">Serviciossss</a>
-
-                            <small><a href="contacto" class="btn dream-btn btn-sm">Contáctenos</a></small>
-
-                            
-
-                        </div>
-
-                    </div>
-
-                </div>
-
-                <div class="col-12 col-lg-6 col-md-12">
-
-                    <div class="banner-box v2 mt-s">
-
-                        <img src="img/core-img/about2.png" alt="">
-
-                    </div>
-
-                </div>
-
-               
-
-            </div> -->
         <div class="contain">
             <div id="carouselExampleSlidesOnly" class="slider_home" data-ride="carousel">
                 <div class="carousel-inner">
