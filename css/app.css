@@ -14,7 +14,7 @@
 .contact_us_area {
     padding: 10px 0;
     margin: 200px 0 40px 0;
-    background-color: #fff;
+    background-color: #e8fcf7;
 }
 
 .demo-video {
@@ -38,13 +38,16 @@
 }
 
 #section-anexos {
-    background: #f3f3f37d;
+    /* background: #fdfdfd7d !important; */
     margin: 0;
     padding: 52px 0;
+    margin-top: 300px;
 }
 
 .section-formatos {
-    padding: 30px 0
+    padding: 30px 0;
+    background-color: #f8f9fa;
+    margin-top: 200px;
 }
 
 .section-formatos a {
