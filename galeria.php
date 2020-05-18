@@ -8,6 +8,7 @@
     }
 </style>
 
+<<<<<<< HEAD
 <div class="cabezera_galeria">
     <div class="row">
         <div class="container">
@@ -20,12 +21,46 @@
                     </ol>
                 </nav>
             </div>   
+=======
+<div class="cabezera_galeria" data-options='{direction: "normal"}' style="margin-bottom: 100px">
+
+    <div class="divimage dzsparallaxer--target" style="background-image: url(img/galeria/cabezera/1.jpg);background-position:top; width:101%; height:550px; background-repeat:no-repeat"></div>
+
+    <!-- breadcumb content -->
+         <div class="breadcumb-content">
+
+            <div class="container h-100">
+
+                <div class="row h-100">
+
+                    <div class="col-12" style="margin-top:350px">
+
+                        <nav aria-label="breadcrumb" class="breadcumb--con text-center">
+
+                            <h2 class="w-text title wow fadeInUp" data-wow-delay="0.2s" style="color: #13287e !important">Galeria</h2>
+
+                            <ol class="breadcrumb justify-content-center wow fadeInUp" data-wow-delay="0.4s" >
+
+                                <li class="breadcrumb-item" ><a href="index.php" style="color: #00a8ff">Inicio</a></li>
+
+                                <li class="breadcrumb-item active" aria-current="page" style="color: #00a8ff">Galeria</li>
+
+                            </ol>
+
+                        </nav>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+>>>>>>> 830b086f4e2928d2fa8d999cd87ef7ee40a61ec1
         </div>
-    </div>
 </div>
 <div class="galeria">
     <div class="contenedor">
-            <header>
+            <header class="header_galeria">
                 <form action="">
                     <input type="text" class="barra-busqueda" id="barra-busqueda" placeholder="Buscar">
                 </form>

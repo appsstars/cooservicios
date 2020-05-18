@@ -1,9 +1,9 @@
 ﻿<?php require_once 'layouts/header.php'; ?>
 
-<?php 
+<!-- <?php 
     session_start();
     
- ?>
+ ?> -->
 <!-- mail -->
 
 <?php
@@ -30,29 +30,30 @@ if(!empty($_POST['correo'])){
 
     <!-- ##### Welcome Area Start ##### -->
 
-    <div class="breadcumb-area clearfix dzsparallaxer auto-init" data-options='{direction: "normal"}'>
-
-        <div class="divimage dzsparallaxer--target" style="width: 101%; height: 130%; background-image: url(img/images/img20.jpg)"></div>
-
+    <div class="cabezera-contacto" data-options='{direction: "normal"}'>
+   
+       <div class="divimage dzsparallaxer--target" style="background-image: url(img/images/img20.jpg);background-position:center; width:101%; height:550px; background-repeat:no-repeat"></div>
         <!-- breadcumb content -->
 
         <div class="breadcumb-content">
 
             <div class="container h-100">
 
-                <div class="row h-100 align-items-center">
+                <div class="row h-100">
 
-                    <div class="col-12">
+                    <div class="col-12" style="margin-top: 350px">
+
+                         
 
                         <nav aria-label="breadcrumb" class="breadcumb--con text-center">
 
-                            <h2 class="w-text title wow fadeInUp" data-wow-delay="0.2s">Contactanos</h2>
+                            <h2 class="w-text title wow fadeInUp" data-wow-delay="0.2s" style="color: #13287e !important">Contacto</h2>
 
-                            <ol class="breadcrumb justify-content-center wow fadeInUp" data-wow-delay="0.4s">
+                            <ol class="breadcrumb justify-content-center wow fadeInUp" data-wow-delay="0.4s" >
 
-                                <li class="breadcrumb-item"><a href="index.php">Inicio</a></li>
+                                <li class="breadcrumb-item" ><a href="index.php" style="color: #00a8ff">Inicio</a></li>
 
-                                <li class="breadcrumb-item active" aria-current="page">Contacto</li>
+                                <li class="breadcrumb-item active" aria-current="page" style="color: #00a8ff">Contacto</li>
 
                             </ol>
 
