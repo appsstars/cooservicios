@@ -231,3 +231,12 @@ a.btn.btn-link.btn-servicio {
     left: 0;
     z-index: 10;
 }
+
+/*====================normatividad========================0*/
+#normatividad{
+    text-align: center;
+}
+
+#normatividad .check-square{
+    max-width: 40px
+}
