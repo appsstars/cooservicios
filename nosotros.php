@@ -523,7 +523,7 @@
 
                                 <div class="icon-img-box">
 
-                                    <img src="img/icons/d3.png" alt="">
+                                    <img src="img/iconos/inversion.png" style="max-width: 70px" alt="">
 
                                 </div>
 
@@ -549,7 +549,7 @@
 
                                 <div class="icon-img-box">
 
-                                    <img src="img/icons/d1.png" alt="">
+                                   <img src="img/iconos/colegio.png" style="max-width: 70px" alt="">
 
                                 </div>
 
@@ -573,7 +573,7 @@
 
                                 <div class="icon-img-box">
 
-                                    <img src="img/icons/d2.png" alt="">
+                                     <img src="img/iconos/colegio.png" style="max-width: 70px" alt="">
 
                                 </div>
 
