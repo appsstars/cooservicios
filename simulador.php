@@ -7,7 +7,7 @@
             <span class="input-group-addon beautiful">
                 Monto ($)
             </span>
-            <input type="text" class="form-control calcular_monto" min="1000000" value="1000000" id="monto" onkeyup="llenar_simulador()">
+            <input type="text" class="form-control calcular_monto" value="0" id="monto" onkeyup="llenar_simulador()">
         </div>
         <span id="messageammountmax" style="color: #FE6777;display: none;">El monto debe ser superior a $ 1'000.000</span>
     </div>
@@ -18,7 +18,7 @@
             <span class="input-group-addon beautiful">
                 Meses
             </span>
-            <input type="text" class="form-control calcular_monto" value="60" id="plazo" onkeyup="llenar_simulador()">
+            <input type="text" class="form-control calcular_monto" value="1" id="plazo" onkeyup="llenar_simulador()">
         </div>
     </div>
 

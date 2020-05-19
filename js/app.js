@@ -3,42 +3,37 @@ $(document).on('click',".btn-servicio",function(){
 	var id = $(this).attr("data-id");
 
 	$('input[name=id_linea]').val(id);
+	var nombre_linea = 'dshfkj';
 
 	//
 
 		if(id==1){
-
-			$('input[name=linea]').val('CREDIAPORTES');
+			 nombre_linea = 'CREDIAPORTES';
+			
 
 		}else if(id==2){
-
-			$('input[name=linea]').val('CREDITO EDUCATIVO');
+			nombre_linea = 'CREDITO EDUCATIVO';
+			
 
 		}else if(id==3){
-
-			$('input[name=linea]').val('CREDITO LIBRE INVERSION');
-
+			 nombre_linea = "CREDITO LIBRE INVERSION";
 		}else if(id==4){
-
-			$('input[name=linea]').val('COOEXPRESS');
-
+			nombre_linea = 'COOEXPRESS';
 		}else if(id==5){
-
-			$('input[name=linea]').val('CREDITÓ PARA REPARACIÓN O MEJORA DE VIVIENDA');
-
+			nombre_linea =  'CREDITÓ PARA REPARACIÓN O MEJORA DE VIVIENDA';
 		}else if(id==6){
-
-			$('input[name=linea]').val('LINEA DE CREDITO ESPECIAL PARA AHORRADORES');
-
+			nombre_linea = 'LINEA DE CREDITO ESPECIAL PARA AHORRADORES';
 		}
+		$('input[name=linea]').val(nombre_linea);
+		$('.name-linea').html("<img src='img/iconos/check-square.png' class='check-square' /> "+nombre_linea);
 
 	//
 
 	var servicio = servicios.filter(objeto => objeto.id == id );
 
-	$('#detalle-servicio .titulo').html(servicio[0]['titulo']);
+	$('#detalle-servicio .titulo').html("<img src='img/iconos/check-square.png' class='check-square' /> "+servicio[0]['titulo']);
 
-	$('#detalle-servicio img').attr("src",'img/services/'+servicio[0]['img']);
+	$('#detalle-servicio .img-banner').attr("src",'img/services/'+servicio[0]['img']);
 
 	$('#detalle-servicio .parrafo').html(servicio[0]['descripcion']);
 
@@ -124,6 +119,7 @@ $(document).on('click','.llenar-form',function(){
 $(document).on('submit','#form-contact-simulador',function(){
 
 	var data = $('#form-contact-simulador').serialize();
+	console.log(data);
 
 	$.ajax({
 

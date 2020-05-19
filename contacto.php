@@ -1,12 +1,11 @@
-﻿<?php require_once 'layouts/header.php'; ?>
-
-<!-- <?php 
+﻿<?php 
     session_start();
-    
- ?> -->
-<!-- mail -->
+
+?>
+<?php require_once 'layouts/header.php'; ?>
 
 <?php
+    
 if(!empty($_POST['correo'])){
     ini_set( 'display_errors', 1 );
     error_reporting( E_ALL );

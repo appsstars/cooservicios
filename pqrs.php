@@ -1,9 +1,9 @@
 <?php require_once 'layouts/header.php'; ?>
 
-<!-- <?php 
+<?php 
     session_start();
     
- ?> -->
+ ?>
 
 
 <?php

@@ -98,6 +98,8 @@
 
     <!-- script js -->
     <script src="js/script.js"></script>
+    <script src="db/services.js"></script>
+    <script src="js/app.js"></script>
 
   
 

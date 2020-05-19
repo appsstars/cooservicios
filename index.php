@@ -27,28 +27,32 @@ if(!empty($_POST['correo'])){
 ?>
 
 <section class="col-lg-12 section_home"></div>
-
-    <div class="contain">
+    <div class="">
         <div id="carouselExampleSlidesOnly" class="slider_home" data-ride="carousel">
-            <div class="carousel-inner">
-                <div class=" carousel-item active" >                       
+             <div class=" carousel-item active" >                       
                     <img class="d-block w-100" src="img/home/1.jpg" alt="First slide" style="height: 100%">
                     <div class="welcome-content v2" style="position: absolute; left: 100px; bottom: 10%; z-index: 3;">
-
                         <h1 class="wow fadeInUp w-text" data-wow-delay="0.2s" style="color: #13287e !important">Afíliate con nosotros</h1>
+                        <p class="wow fadeInUp" data-wow-delay="0.3s" style="color: black !important">Ofrecemos servicios crédito que se adaptan a tus necesidades,<br>
+                        Somos la mejor opción para respaldar tus sueños.</p>
+                        <div class="dream-btn-group wow fadeInUp" data-wow-delay="0.4s">
+                            <a href="servicios" class="btn dream-btn">Servicios</a>
+                            <small><a href="contacto" class="btn dream-btn btn-sm">Contáctenos</a></small>
 
-<<<<<<< HEAD
-        <div class="contain">
-            <div id="carouselExampleSlidesOnly" class="slider_home" data-ride="carousel">
-                <div class="carousel-inner">
-                    <div class=" carousel-item active" >                       
-                        <img class="d-block w-100" src="img/home/1.jpg" alt="First slide" style="height: 100%">
+                        </div>
+                    </div>
+                </div>
+
+
+                 <div class="carousel-item">
+                        <img class="d-block w-100" src="img/home/2.jpg" alt="Second slide">
                         <div class="welcome-content v2" style="position: absolute; left: 100px; bottom: 10%; z-index: 3;">
 
                             <h1 class="wow fadeInUp w-text" data-wow-delay="0.2s" style="color: #13287e !important">Afíliate con nosotros</h1>
 
                             <p class="wow fadeInUp" data-wow-delay="0.3s" style="color: black !important">Ofrecemos servicios crédito que se adaptan a tus necesidades,<br>
                             Somos la mejor opción para respaldar tus sueños.</p>
+
 
                             <div class="dream-btn-group wow fadeInUp" data-wow-delay="0.4s">
 
@@ -59,69 +63,10 @@ if(!empty($_POST['correo'])){
 
                             </div>
                         </div>
-                    </div>
-                    <div class="carousel-item">
-                       <img class="d-block w-100" src="img/home/2.jpg" alt="Second slide">
-                       <div class="welcome-content v2" style="position: absolute; left: 100px; bottom: 10%; z-index: 3;">
-=======
-                        <p class="wow fadeInUp" data-wow-delay="0.3s" style="color: black !important">Ofrecemos servicios crédito que se adaptan a tus necesidades,<br>
-                        Somos la mejor opción para respaldar tus sueños.</p>
-
-                        <div class="dream-btn-group wow fadeInUp" data-wow-delay="0.4s">
-
-                            <a href="servicios" class="btn dream-btn">Servicios</a>
-
-                            <small><a href="contacto" class="btn dream-btn btn-sm">Contáctenos</a></small>
-
-
-                        </div>
-                    </div>
                 </div>
-                <div class="carousel-item">
-                    <img class="d-block w-100" src="img/home/2.jpg" alt="Second slide">
-                    <div class="welcome-content v2" style="position: absolute; left: 100px; bottom: 10%; z-index: 3;">
 
-                        <h1 class="wow fadeInUp w-text" data-wow-delay="0.2s" style="color: #13287e !important">Afíliate con nosotros</h1>
-
-                        <p class="wow fadeInUp" data-wow-delay="0.3s" style="color: black !important">Ofrecemos servicios crédito que se adaptan a tus necesidades,<br>
-                        Somos la mejor opción para respaldar tus sueños.</p>
->>>>>>> 830b086f4e2928d2fa8d999cd87ef7ee40a61ec1
-
-                        <div class="dream-btn-group wow fadeInUp" data-wow-delay="0.4s">
-
-                            <a href="servicios" class="btn dream-btn">Servicios</a>
-
-                            <small><a href="contacto" class="btn dream-btn btn-sm">Contáctenos</a></small>
-
-
-                        </div>
-                    </div>
-                </div>
-                <div class="carousel-item">
-                    <img class="d-block w-100" src="img/home/3.jpg" alt="Third slide">
-                    <div class="welcome-content v2" style="position: absolute; left: 100px; bottom: 10%; z-index: 3;">
-
-                        <h1 class="wow fadeInUp w-text" data-wow-delay="0.2s" style="color: #13287e !important">Afíliate con nosotros</h1>
-
-                        <p class="wow fadeInUp" data-wow-delay="0.3s" style="color: black !important">Ofrecemos servicios crédito que se adaptan a tus necesidades,<br>
-                        Somos la mejor opción para respaldar tus sueños.</p>
-
-                        <div class="dream-btn-group wow fadeInUp" data-wow-delay="0.4s">
-
-                            <a href="servicios" class="btn dream-btn">Servicios</a>
-
-                            <small><a href="contacto" class="btn dream-btn btn-sm">Contáctenos</a></small>
-
-
-                        </div>
-                    </div>
                 </div>
             </div>
-                        
-        </div>               
-                
-    </div>
-        
 </section>
 
 
@@ -146,7 +91,7 @@ if(!empty($_POST['correo'])){
                 <div class="service_single_content text-center mb-100 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="service_icon">
 
-                        <img src="img/services/1.svg" alt="">
+                        <img src="img/iconos/aportes.png" alt="">
 
                     </div>
 
@@ -158,9 +103,9 @@ if(!empty($_POST['correo'])){
 
                             <br>
 
-                            <a class="btn btn-link btn-servicio" data-id="1">Detalles</a>
+                            <a class="btn btn-link btn-servicio" data-id="1"><i class="fa fa-info-circle" aria-hidden="true"></i>  Detalles</a>
 
-                    </p>
+                    </p> 
 
                 </div>
 
@@ -171,7 +116,7 @@ if(!empty($_POST['correo'])){
 
                     <div class="service_icon">
 
-                        <img src="img/services/2.svg" alt="">
+                        <img src="img/iconos/estudio.png" alt="">
 
                     </div>
 
@@ -183,7 +128,7 @@ if(!empty($_POST['correo'])){
 
                         <br>
 
-                            <a class="btn btn-link btn-servicio" data-id="2">Detalles</a>
+                            <a class="btn btn-link btn-servicio" data-id="2"> <i class="fa fa-info-circle" aria-hidden="true"></i> Detalles</a>
 
                     </p>
 
@@ -195,7 +140,7 @@ if(!empty($_POST['correo'])){
                 <div class="service_single_content text-center mb-100 wow fadeInUp" data-wow-delay="0.4s">
                     <div class="service_icon">
 
-                        <img src="img/services/3.svg" alt="">
+                        <img src="img/iconos/libre_inversion.png" alt="">
 
                     </div>
 
@@ -207,7 +152,7 @@ if(!empty($_POST['correo'])){
 
                         <br>
 
-                        <a class="btn btn-link btn-servicio" data-id="3">Detalles</a>
+                        <a class="btn btn-link btn-servicio" data-id="3"><i class="fa fa-info-circle" aria-hidden="true"></i> Detalles</a>
 
                     </p>
 
@@ -219,7 +164,7 @@ if(!empty($_POST['correo'])){
 
                 <p class="text-center">
 
-                    <a href="servicios" class="text-center text-success">Ver completo</a>
+                    <a href="servicios" class="btn btn-outline-success text-center btn-mas-servicios"><i class="fa fa-chevron-circle-right" aria-hidden="true"></i> Ver completo</a>
 
                 </p>
 
@@ -588,4 +533,4 @@ if(!empty($_POST['correo'])){
 
     <!-- ##### Footer Area Start ##### -->
 
-<?php require_once 'layouts/footer.php'; ?>
+<?php require_once 'layouts/footer.php'; ?> 

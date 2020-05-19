@@ -22,7 +22,7 @@
 
                         <nav aria-label="breadcrumb" class="breadcumb--con text-center">
 
-                            <h2 class="w-text title wow fadeInUp" data-wow-delay="0.2s" style="color: #13287e !important">Nosotros</h2>
+                            <h2 class="w-text title wow fadeInUp" data-wow-delay="0.2s" >Nosotros</h2>
 
                             <ol class="breadcrumb justify-content-center wow fadeInUp" data-wow-delay="0.4s" >
 
@@ -311,19 +311,17 @@
 
                     <div class="col-12 col-lg-6">
 
-                        <div class="welcome-meter wow fadeInUp text-center" data-wow-delay="0.7s">
+                        <div class="welcome-video-area fadeInUp" data-wow-delay="0.5s" style="background-color: #fff !important; border-radius:10px;">
 
-                            <h5 class="titulo">FUNDADOR</h5>
+                            <!-- Welcome Thumbnail -->
 
-                            <h6 class="subTitulo wow fadeInUp" data-wow-delay="0.3s">Dagoberto Jimenez Jimenez</h6>                            
+                            <div class="welcome-thumb-resema">
 
-                            <img src="img/svg/fundador1.jpg" class="solution center-block " alt="" style="border-radius: 30px;">
-
-                            <div class="growing-company text-center mt-30 wow fadeInUp" data-wow-delay="0.8s">
-
-                                <p>* Already growing up <span class="counter">5236</span> company</p>
+                                <img src="img/nosotros/pergamino.png" alt="">
 
                             </div>
+
+                            <!-- Video Icon -->
 
                         </div>
 
@@ -383,7 +381,7 @@
 
                         <p class="wow fadeInUp" data-wow-delay="0.5s">
 
-                            <strong>-Ayuda mutua.</strong> Busca el desarrollo integral del individuo mediante la unión de fuerzas y esfuerzos con otras personas,
+                            <strong> <img src="img/iconos/check-square.png" class="icono-lista" alt=""> Ayuda mutua.</strong> Busca el desarrollo integral del individuo mediante la unión de fuerzas y esfuerzos con otras personas,
 
                              a través de la acción conjunta, y la colaboración para lograr el progreso, una influencia colectiva en el mercado, 
 
@@ -393,7 +391,7 @@
 
                         <P class="wow fadeInUp" data-wow-delay="0.4s">
 
-                            <strong>-Responsabilidad.</strong>  Es la concreción del sentido de pertenencia de los Asociados en la creación, funcionamiento, 
+                            <strong> <img src="img/iconos/check-square.png" class="icono-lista" alt=""> Responsabilidad.</strong>  Es la concreción del sentido de pertenencia de los Asociados en la creación, funcionamiento, 
 
                              fortalecimiento, promoción, gestión y dirección estratégica de la Cooperativa para el logro de su independencia 
 
@@ -419,7 +417,7 @@
 
                             <P class="wow fadeInUp" data-wow-delay="0.4s">
 
-                                <strong>-Equidad.</strong>  Valor orientado a dar un tratamiento igualitario y equitativo a todos y cada uno de los Asociados en la prestación de sus servicios,
+                                <strong> <img src="img/iconos/check-square.png" class="icono-lista" alt=""> Equidad.</strong>  Valor orientado a dar un tratamiento igualitario y equitativo a todos y cada uno de los Asociados en la prestación de sus servicios,
 
                                  en la aplicación de los excedentes, reservas de capital a su nombre o en la reducción de los costos.
 
@@ -427,7 +425,7 @@
 
                             <P class="wow fadeInUp" data-wow-delay="0.4s">
 
-                                <strong>-Solidaridad.</strong>  Las Cooperativas y los cooperativistas, en esencia, nacen con fundamento en el hecho de que la unión de fuerzas
+                                <strong> <img src="img/iconos/check-square.png" class="icono-lista" alt=""> Solidaridad.</strong>  Las Cooperativas y los cooperativistas, en esencia, nacen con fundamento en el hecho de que la unión de fuerzas
 
                                  y esfuerzos son el único medio para trazar y alcanzar metas que de otra forma serían imposibles, tanto para el individuo como tal, 
 
@@ -437,7 +435,7 @@
 
                             <P class="wow fadeInUp" data-wow-delay="0.4s">
 
-                                <strong>-Respeto.</strong>  En Cooservicios O.C., cada uno de sus Asociados, Directivos, Administradores, Empleados y relacionados,
+                                <strong> <img src="img/iconos/check-square.png" class="icono-lista" alt=""> Respeto.</strong>  En Cooservicios O.C., cada uno de sus Asociados, Directivos, Administradores, Empleados y relacionados,
 
                                  han interiorizado éste valor como el eje central en el manejo de las relaciones interpersonales e institucionales, 
 

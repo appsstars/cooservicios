@@ -1,13 +1,13 @@
 <?php 
-require 'app/conexion/conexion.php';
+require_once 'app/conexion/conexion.php';
 if(!empty($_POST['nombres'])){
-	$linea = $_POST['linea'];
+	$linea = $_POST['id_linea'];
 	$nombres = $_POST['nombres'];
 	$documento = $_POST['documento'];
 	$telefono = $_POST['telefono'];
 	$direccion = $_POST['direccion'];
 
-	$sql = "INSERT INTO form_simulador (nombres, documento, telefono, direccion) VALUES ('".$linea."','".$nombres."','".$documento."','".$telefono."','".$direccion."')";
+	$sql = "INSERT INTO form_simulador (id_linea, nombres, documento, telefono, direccion) VALUES ('".$linea."','".$nombres."','".$documento."','".$telefono."','".$direccion."')";
 	$query = mysqli_query($conexion, $sql);
 	echo 'creado con exito';
 }
@@ -16,6 +16,9 @@ if(!empty($_POST['nombres'])){
 
 <form id="form-contact-simulador" >
 	<div class="row">
+		<div class="col-md-12">
+			<h2 class="name-linea"></h2><br>
+		</div>
 		<div class="col-md-6">
 			<div class="form-group">
 				<span>Nombres y/o Razon social</span>
@@ -43,7 +46,7 @@ if(!empty($_POST['nombres'])){
 			</div>
 		</div>
 		<div class="col-md-6">
-			<button class="btn btn-outline-success">Empezar simulador</button>
+			<button class="btn btn-outline-success"><i class="fa fa-play-circle" aria-hidden="true"></i> Enviar/iniciar simulador</button>
 		</div>
 	</div>
 </form>

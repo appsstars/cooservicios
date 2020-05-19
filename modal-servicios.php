@@ -4,7 +4,7 @@
     <div class="modal-content">
       <div class="modal-body">
         <div class="info-servicio">
-           <img src="img" alt="">
+           <img src="img" class="img-banner" alt="">
             <h1 class="titulo"></h1>
             <p class="parrafo"></p>
             <div class="condiciones">
@@ -15,8 +15,8 @@
               <span class="deudor-solidario"><b>DEUDOR SOLIDARIO: </b> <span ></span></span><br>
               <span class="garantia"><b>GARANTIA: </b> <span ></span></span><br>
                <span class="periodo-gracia"><b>PERIODO DE GRACIA: </b> <span ></span></span><br>
-            </div>
-            <button class="btn btn-outline-success llenar-form">Simulador</button>
+            </div> 
+            <button class="btn btn-outline-success llenar-form"><i class="fa fa-play-circle" aria-hidden="true"></i> Simulador</button>
         </div>
 
         <div class="simulador" style="display: none;">
@@ -31,7 +31,7 @@
         
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+        <button type="button" class="btn btn-secondary" data-dismiss="modal"><i class="fa fa-times-circle" aria-hidden="true"></i> Cerrar</button>
       </div>
     </div>
   </div>

@@ -29,6 +29,30 @@
     position: absolute;
 }
 
+/*============================home=====================*/
+#detalle-servicio .parrafo{
+    color:#000 !important;
+}
+
+h2.name-linea {
+    display: block;
+    border-bottom: 1px #0003 solid;
+    padding: 10px 0 25px 0;
+}
+#detalle-servicio .check-square{
+    max-width: 50px
+}
+
+a.btn.btn-link.btn-servicio {
+    margin: 15px 0 0 0;
+    border: 1px #00b397 solid;
+}
+.btn-servicio i.fa.fa-info-circle {
+    color: #f5a827;
+}
+.btn-mas-servicios{
+    margin: 20px 0 0 0
+}
 
 /* ==================================  Noticias  =======================
 =======================================================================#004552 */
@@ -68,6 +92,7 @@
 #modal_resena {
     z-index: 5000 !important;
     position: absolute;
+    top: 0
 }
 
 .resena {
@@ -82,8 +107,13 @@
     border-top: 80px #46b6cf solid;
 }
 
+.carousel-item{
+    max-height: 750px;
+    overflow:hidden;
+    background-attachment: fixed;
+}
 .carousel-item img {
-    max-height: 650px !important;
+   
 }
 
 .contain {
@@ -91,6 +121,49 @@
     height: auto;
     margin-bottom: 50px;
 }
+
+.section_home {
+    margin-bottom: 100px;
+}
+.service_single_content .service_icon img{
+    display: block;
+    max-width: 100px;
+}
+
+/*======================== landing nosotros =====================*/
+
+.cabezera_nosotros .breadcumb--con {
+    padding-top: 0px;
+}
+
+.cabezera_nosotros .breadcumb--con  h2{
+    font-size: 50px !important;
+    font-weight: bold;
+    border-bottom: 4px #fff solid;
+    max-width: 250px;
+    margin: 15px auto;
+}
+
+.welcome-thumb-resema img {
+    margin: -78px 2px 11px 43px;
+    padding: 12px 20px 22px 0px;
+    border-radius: 46px;
+}
+
+.welcome-thumb-resema {
+    position: relative;
+    z-index: 1;
+    margin-top: 30px;
+    border: 1px solid #ff5722;
+    border-radius: 15px;
+    padding: -1px 7px 0 0;
+    padding: 10px 0;
+}
+.icono-lista{
+    max-width: 50px
+}
+
+/*============================= end landign ======================*/
 
 
 /* =============================   cabezera    =======================
@@ -109,16 +182,15 @@
 }
 
 .cabezera_galeria {
-<<<<<<< HEAD
+
     /* height: 600px; */
     /* width: 100%; */
     background-image: url(../img/galeria/cabezera/1.jpg);
     background-position: center;
     background-repeat: no-repeat;
-=======
     height: 600px;
     /* width: auto; */
->>>>>>> 830b086f4e2928d2fa8d999cd87ef7ee40a61ec1
+
     border-top: 80px #46b6cf solid;
     background-size: cover;
     padding: 203px 0 203px 0;
