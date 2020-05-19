@@ -182,22 +182,13 @@ a.btn.btn-link.btn-servicio {
 }
 
 .cabezera_galeria {
-
-    /* height: 600px; */
-    /* width: 100%; */
-    background-image: url(../img/galeria/cabezera/1.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
     height: 600px;
-    /* width: auto; */
-
+    /* width: 100%; */
     border-top: 80px #46b6cf solid;
-    background-size: cover;
-    padding: 203px 0 203px 0;
 }
 
 .cabezera_servicios {
-    height: 600px;
+    height: 700px;
     /* width: auto; */
     border-top: 80px #46b6cf solid;
 }
@@ -227,4 +218,16 @@ a.btn.btn-link.btn-servicio {
 .header_galeria {
     /* padding: 40px 0; */
     background-color: white;
+}
+.cabezera_galeria .breadcumb--con, .cabezera_servicios .breadcumb--con, .cabezera_pqrs .breadcumb--con,.cabezera-anexos .breadcumb--con,.cabezera-contacto .breadcumb--con{
+    padding-top: 0px;
+}
+
+.breadcumb-content {
+    position: absolute !important;
+    width: 100%;
+    height: auto;
+    top: 0;
+    left: 0;
+    z-index: 10;
 }

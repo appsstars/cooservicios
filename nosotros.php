@@ -573,7 +573,7 @@
 
                                 <div class="icon-img-box">
 
-                                     <img src="img/iconos/colegio.png" style="max-width: 70px" alt="">
+                                    <img src="img/icons/d2.png" alt="">
 
                                 </div>
 

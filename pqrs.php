@@ -1,9 +1,10 @@
-<?php require_once 'layouts/header.php'; ?>
-
 <?php 
     session_start();
     
  ?>
+<?php require_once 'layouts/header.php'; ?>
+
+
 
 
 <?php
@@ -42,7 +43,7 @@ if(!empty($_POST['correo'])){
 
                         <nav aria-label="breadcrumb" class="breadcumb--con text-center">
 
-                            <h2 class="w-text title wow fadeInUp" data-wow-delay="0.2s" style="color: #13287e !important">PQRS</h2>
+                            <h2 class="w-text title wow fadeInUp" data-wow-delay="0.2s" style="color: #fff !important; font-weight: bold;font-size: 50px !important">PQRS</h2>
 
                             <ol class="breadcrumb justify-content-center wow fadeInUp" data-wow-delay="0.4s" >
 
@@ -79,7 +80,7 @@ if(!empty($_POST['correo'])){
 
 
 
-        <section class="contact_us_area" id="contact">
+        <section class="contact_us_area" id="contact" style="margin-top: 30px">
 
         <div class="container">
 

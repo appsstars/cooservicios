@@ -46,7 +46,7 @@ if(!empty($_POST['correo'])){
 
                         <nav aria-label="breadcrumb" class="breadcumb--con text-center">
 
-                            <h2 class="w-text title wow fadeInUp" data-wow-delay="0.2s" style="color: #13287e !important">Contacto</h2>
+                            <h2 class="w-text title wow fadeInUp" data-wow-delay="0.2s" style="color: #fff !important; font-weight: bold;">Contacto</h2>
 
                             <ol class="breadcrumb justify-content-center wow fadeInUp" data-wow-delay="0.4s" >
 

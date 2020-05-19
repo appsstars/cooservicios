@@ -1,6 +1,6 @@
 .contenedor {
-	width: 90%;
-	margin: auto;
+    width: 90%;
+    margin: -15px auto;
 }
 
 /* ------------------------- */
@@ -53,7 +53,8 @@ header .categorias a {
 }
 
 header .categorias a.activo {
-	color: #000;
+    color: #4aa4ad;
+    border-bottom: 3px #ff8300f5 solid;
 }
 
 /* ------------------------- */
@@ -77,7 +78,7 @@ header .categorias a.activo {
     margin: 10px;
     width: calc(33.333333% - 20px);
     /* width: 159px; */
-    max-height: 230px !important;
+    max-height: 330px !important;
     overflow: hidden;
     /* background-size: cover; */
     /* background-attachment: fixed; */
@@ -147,6 +148,11 @@ header .categorias a.activo {
 	top: -20px;
 }
 
+
+
+
+
+
 /* ------------------------- */
 /* Footer */
 /* ------------------------- */
@@ -165,5 +171,3 @@ header .categorias a.activo {
 		width: 100%;
 	}
 }
-
-#grid
