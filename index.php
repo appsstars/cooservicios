@@ -97,7 +97,7 @@ if(!empty($_POST['correo'])){
 
                     <h6>CREDIAPORTES</h6>
 
-                    <p>
+                    <p class="text-justify">
 
                             Esta línea de crédito permite a nuestros asociados acceder hasta una cuantía máxima del 150% del valor de sus Aportes Sociales, la tasa es muy atractiva...
 
@@ -122,7 +122,7 @@ if(!empty($_POST['correo'])){
 
                     <h6>CREDITO EDUCATIVO</h6>
 
-                    <p>
+                    <p class="text-justify">
 
                         Por medio de esta línea brindamos una Solución de Financiamiento Educativo a nuestros asociados, cubriendo niveles educativos de Pregrado y Posgrado...
 
@@ -146,7 +146,7 @@ if(!empty($_POST['correo'])){
 
                     <h6>CREDITO LIBRE INVERSIÓN</h6>
 
-                    <p>
+                    <p class="text-justify">
 
                         Por medio de esta línea, nuestros asociados pueden acceder a una solución de financiamiento para sus proyectos de Inversión y Consumo...
 

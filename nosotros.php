@@ -68,7 +68,7 @@
 
                 <h2 class="wow fadeInUp" data-wow-delay="0.3s">Quienes Somos</h2>
 
-                <p class="wow fadeInUp" data-wow-delay="0.4s" style="color: #5a5959">
+                <p class="wow fadeInUp text-justify" data-wow-delay="0.4s" style="color: #5a5959">
 
                     Cooperativa especializada y preferida en la región, en la prestación de servicios de CREDITO,
 
@@ -127,7 +127,7 @@
 
                                 <h3><a href="#">MISIÓN</a></h3>
 
-                                <div class="text">
+                                <div class="text text-justify">
 
                                     Somos el apoyo de nuestros Asociados en la promoción de su calidad de vida y dignidad humana,
 
@@ -159,7 +159,7 @@
 
                                 <h3><a href="#">VISIÓN</a></h3>
 
-                                <div class="text">
+                                <div class="text text-justify">
 
                                     "Cooservicios O.C.", al 2021 se consolidará como la Cooperativa especializada en la prestación de los servicios de "AHORRO Y CRÉDITO",
 
@@ -193,7 +193,7 @@
 
                                 <h3><a href="#">POLÍTICAS</a></h3>
 
-                                <div class="text">
+                                <div class="text text-justify">
 
                                     COOSERVICIOS O.C., se orientará y dirigirá con criterio ético, credibilidad, celeridad y responsabilidad,
 
@@ -275,7 +275,7 @@
 
                             <h4 class="wow fadeInUp" data-wow-delay="0.3s">RESEÑA HISTÓRICA</h4>
 
-                            <p class="wow fadeInUp" data-wow-delay="0.4s">Cooservicios Ltda., nace por iniciativa privada, con los escasos aportes sociales hechos por un grupo de amigos encabezado por DAGOBERTO JIMÉNEZ JIMÉNEZ.
+                            <p class="wow fadeInUp text-justify" data-wow-delay="0.4s">Cooservicios Ltda., nace por iniciativa privada, con los escasos aportes sociales hechos por un grupo de amigos encabezado por DAGOBERTO JIMÉNEZ JIMÉNEZ.
 
                                 Su objetivo y filosofía social se orientan a prestarle servicios a sus Asociados, a los familiares de éstos, a generar empleo y progreso a su interior,
 
@@ -285,7 +285,7 @@
 
                             </p>
 
-                            <p class="wow fadeInUp" data-wow-delay="0.5s">Proyecto que se cristaliza oficialmente el día 27 de marzo de 1979, mediante la Resolución No. 0236 emanada del entonces DANCOOP.
+                            <p class="wow fadeInUp text-justify" data-wow-delay="0.5s">Proyecto que se cristaliza oficialmente el día 27 de marzo de 1979, mediante la Resolución No. 0236 emanada del entonces DANCOOP.
 
                                 La Cooperativa abre sus puertas al público con la prestación del servicio de "AHORRO Y CRÉDITO",
 
@@ -367,7 +367,7 @@
 
                        
 
-                        <p class="wow fadeInUp" data-wow-delay="0.4s">
+                        <p class="wow fadeInUp text-justify" data-wow-delay="0.4s">
 
                             <strong>Cooservicios O.C.</strong> funda su gestión en los valores que le han permitido nacer, crecer,
 
@@ -379,7 +379,7 @@
 
                         </p>
 
-                        <p class="wow fadeInUp" data-wow-delay="0.5s">
+                        <p class="wow fadeInUp text-justify" data-wow-delay="0.5s">
 
                             <strong> <img src="img/iconos/check-square.png" class="icono-lista" alt=""> Ayuda mutua.</strong> Busca el desarrollo integral del individuo mediante la unión de fuerzas y esfuerzos con otras personas,
 
@@ -389,7 +389,7 @@
 
                         </p>
 
-                        <P class="wow fadeInUp" data-wow-delay="0.4s">
+                        <P class="wow fadeInUp text-justify" data-wow-delay="0.4s">
 
                             <strong> <img src="img/iconos/check-square.png" class="icono-lista" alt=""> Responsabilidad.</strong>  Es la concreción del sentido de pertenencia de los Asociados en la creación, funcionamiento, 
 
@@ -423,7 +423,7 @@
 
                             </P>
 
-                            <P class="wow fadeInUp" data-wow-delay="0.4s">
+                            <P class="wow fadeInUp text-justify" data-wow-delay="0.4s">
 
                                 <strong> <img src="img/iconos/check-square.png" class="icono-lista" alt=""> Solidaridad.</strong>  Las Cooperativas y los cooperativistas, en esencia, nacen con fundamento en el hecho de que la unión de fuerzas
 
@@ -433,7 +433,7 @@
 
                             </P>
 
-                            <P class="wow fadeInUp" data-wow-delay="0.4s">
+                            <P class="wow fadeInUp text-justify" data-wow-delay="0.4s">
 
                                 <strong> <img src="img/iconos/check-square.png" class="icono-lista" alt=""> Respeto.</strong>  En Cooservicios O.C., cada uno de sus Asociados, Directivos, Administradores, Empleados y relacionados,
 
@@ -477,7 +477,7 @@
 
                     </div>
 
-                    <h2 class="d-blue fadeInUp" data-wow-delay="0.3s">Mira Nuestro Video De Demostración</h2>
+                    <h2 class="d-blue fadeInUp" data-wow-delay="0.3s">INVERSION SOCIAL</h2>
 
                     <p class="fadeInUp" data-wow-delay="0.4s" style="color:#888">
 
@@ -499,17 +499,11 @@
 
                             <div class="welcome-thumb">
 
-                                <img src="img/bg-img/bg-4.jpg" alt="">
+                                <img src="img/nosotros/8.jpg" alt="">
 
                             </div>
 
-                            <!-- Video Icon -->
-
-                            <div class="video-icon">
-
-                                <a href="https://www.youtube.com/watch?v=gbXEPHsTkgU" class="btn dream-btn video-btn" id="videobtn"><i class="fa fa-play"></i></a>
-
-                            </div>
+      
 
                         </div>
 
@@ -527,7 +521,7 @@
 
                                 </div>
 
-                                <h3><a href="#">INVERSION SOCIAL</a></h3>
+                                <h3><a href="#">INVERSIÓN SOCIAL</a></h3>
 
                                 <div class="text">En cumplimiento del Decreto 2880/2004 la cooperativa realizó inversión en educación formal en dos proyectos 
 
@@ -667,37 +661,8 @@
 
         <div class="modal-body">
 
-                    
-
-                <div class="row align-items-center justify-content-center">
-
-                    <div class="col-12 text-center">
-
-                        <h5 class="titulo">FUNDADOR </h5>
-
-                        <h6 class="subTitulo" > Dagoberto Jimenez Jimenez</h6> <br> 
-
-                    </div>
-
-        
-
-                    <div class="col-md-12">
-
-                       <img src="img/svg/fundador1.jpg" class="solution center-block " alt="" style="border-radius: 30px;">
-
-                    </div>
-
-                </div>
-
-                <div class="dream-dots justify-content-center wow fadeInUp" data-wow-delay="0.2s" style="margin-top:40px">
-
-                    <span></span><span></span><span></span><span></span><span></span><span></span><span></span>
-
-                </div>
-
-                                
-
-                <p >Cooservicios Ltda., nace por iniciativa privada, con los escasos aportes sociales hechos por un grupo de amigos encabezado por DAGOBERTO JIMÉNEZ JIMÉNEZ.
+                            
+                <p class="text-justify" >Cooservicios Ltda., nace por iniciativa privada, con los escasos aportes sociales hechos por un grupo de amigos encabezado por DAGOBERTO JIMÉNEZ JIMÉNEZ.
 
                     Su objetivo y filosofía social se orientan a prestarle servicios a sus Asociados, a los familiares de éstos, a generar empleo y progreso a su interior,
 
@@ -707,7 +672,7 @@
 
                 </p>
 
-                <p  >Proyecto que se cristaliza oficialmente el día 27 de marzo de 1979, mediante la Resolución No. 0236 emanada del entonces DANCOOP.
+                <p  class="text-justify" >Proyecto que se cristaliza oficialmente el día 27 de marzo de 1979, mediante la Resolución No. 0236 emanada del entonces DANCOOP.
 
                     La Cooperativa abre sus puertas al público con la prestación del servicio de "AHORRO Y CRÉDITO",
 
