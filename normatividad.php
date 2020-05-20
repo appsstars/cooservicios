@@ -3,7 +3,7 @@
 
     <!-- ##### Welcome Area Start ##### -->
     <div class="cabezera_servicios" data-options='{direction: "normal"}'>
-        <div class="divimage dzsparallaxer--target" style="background-image: url(img/Normatividad/normatividad.jpg);background-position:top; width:101%; height:600px; background-repeat:no-repeat"></div>
+        <div class="divimage dzsparallaxer--target" style="background-image: url(img/normatividad/normatividad.jpg);background-position:top; width:101%; height:600px; background-repeat:no-repeat"></div>
         <div class="breadcumb-content">
 
             <div class="container h-100">
@@ -38,34 +38,98 @@
 
     <!-- ##### Our Services Area Start ##### -->
 
+    <style>
+        .leyes {
+        padding: 3px 10px;
+        border: #00b38f 5px double;
+        border-top-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+        font-size: 13px;
+        text-align: justify;
+    }
+    .circulares{
+        padding: 3px 10px;
+        border: #e67c03 5px double;
+        border-top-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+        font-size: 13px;
+        text-align: justify;
+    }
+    </style>
+
 <section class="our_services_area section-padding-100-70 clearfix" id="normatividad">
     <div class="container">
         
         <div class="section-heading text-center">
             <!-- Dream Dots -->
+
+                        <h2 class="wow fadeInUp" data-wow-delay="0.3s">Normatividad</h2>
+            <p class="wow fadeInUp" data-wow-delay="0.4s"></p>
             <div class="dream-dots justify-content-center wow fadeInUp" data-wow-delay="0.2s">
                 <span></span><span></span><span></span><span></span><span></span><span></span><span></span>
             </div>
-            <h2 class="wow fadeInUp" data-wow-delay="0.3s">Normatividad</h2>
-            <p class="wow fadeInUp" data-wow-delay="0.4s"></p>
+
         </div>
+
+            <?php 
+                //imprimir nombres de etiquetas categoria
+                $resoluciones = scandir('docs/resoluciones');
+                unset($resoluciones[0]); 
+                unset($resoluciones[1]);
+             ?>
             
 
         <div class="row">
+                <div class="col-xs-12 col-md-4">
+                    <div class="leyes">
+                        <h3>Ley</h3>
+                      <img src="img/iconos/check-square.png" style="max-width: 30px" alt="">  <a href="docs/resoluciones/ley/LEY 454 DE 1998.pdf" target="_blank">LEY 454 DE 1998</a> <br>
+                      <img src="img/iconos/check-square.png" style="max-width: 30px" alt="">  <a href="docs/resoluciones/ley/LEY 79 DE 1988.pdf" target="_blank">LEY 79 DE 1988</a>
+                    </div>
+                 </div>
 
-            <div class="col-xs-12 col-md-12">
-                <img src="img/iconos/check-square.png" class="check-square" alt=""> <a href="docs/AVISO_REPROGRAMACION_PAGOS_201912060710.pdf" target="_blank">AVISO DE PROGRAMACION  DE PAGOS RECONOCIDOS EN LA RESOLUCION No 007 DEL 08 DE NOVIEMBRE DE 2019</a>
-            </div>
+                 <div class="col-xs-12 col-md-8">
+                    <div class="circulares">
+                        <h3>Circulares</h3>
+                      <img src="img/iconos/check-square.png" style="max-width: 30px" alt="">  <a href="docs/resoluciones/circular/CIRCULAR BASICA CONTABLE SES.pdf" target="_blank">CIRCULAR BASICA CONTABLE SES</a> <br>
+                      <img src="img/iconos/check-square.png" style="max-width: 30px" alt="">  <a href="docs/resoluciones/circular/circular_basica_juridica_supersolidaria_2015 (SIPLAFT).pdf" target="_blank">circular_basica_juridica_supersolidaria_2015</a>
+                    </div>
+                 </div>
+                 <br>
 
-            <div class="col-xs-12 col-md-12">
-                <img src="img/iconos/check-square.png" class="check-square" alt="">  <a href="docs/RESOLUCION07NOV2019_201911081525.pdf" target="_blank">RESOLUCION No 007 DEL 08 DE NOVIEMBRE DE 2019</a>
-            </div>
+                 <div class="col-xs-12 col-md-5" style="margin-top: 50px">
+                    <div class="circulares">
 
+                        <h3>Resoluciones superintendencia</h3>
+                      <img src="img/iconos/check-square.png" style="max-width: 30px" alt="">  <a href="docs/resoluciones/res/super/RES 2019200002375-ABRIL 12 DE 2019-LEVANTAMIENTO SUSPENCIÓN DE PAGOS.pdf" target="_blank">RES 2019200002375-ABRIL 12 DE 2019-LEVANTAMIENTO SUSPENCIÓN DE PAGOS</a> <br>
+                      <img src="img/iconos/check-square.png" style="max-width: 30px" alt="">  <a href="docs/resoluciones/res/super/RES 2019200003785-JULIO 22 2019-ADMINISTRACIÓN.pdf" target="_blank">RES 2019200003785-JULIO 22 2019-ADMINISTRACIÓN</a> <br>
+                      <img src="img/iconos/check-square.png" style="max-width: 30px" alt="">  <a href="docs/resoluciones/res/super/RES 2019200005865-NOVIEMBRE 18 2019-NOMBRAMIENTO DR ANDRES ORDOÑEZ.pdf" target="_blank">RES 2019200005865-NOVIEMBRE 18 2019-NOMBRAMIENTO DR ANDRES ORDOÑEZ</a> <br>
+                       <img src="img/iconos/check-square.png" style="max-width: 30px" alt="">  <a href="docs/resoluciones/res/super/RES 2020220003325 - MARZO 11 2020 SEGUNDA DEV. PARCIAL AHORRADORES.pdf" target="_blank">RES 2020220003325 - MARZO 11 2020 SEGUNDA DEV. PARCIAL AHORRADORES</a> <br>
 
-            <div class="col-xs-12 col-md-12">
-               <img src="img/iconos/check-square.png" class="check-square" alt="">   <a href="img/circular.jpeg" target="_blank">INFORMACION</a>
-            </div>
+                    </div>
+                 </div>
 
+                 <div class="col-xs-12 col-md-7" style="margin-top: 50px">
+                    <div class="leyes">
+                      <h3>Resoluciones agente especial</h3>
+                      <img src="img/iconos/check-square.png" style="max-width: 30px" alt=""><a href="docs/resoluciones/res/RES 001-ABRIL 10 2019-INVENTARIO DEPOSITO Y EXIGIBLES.pdf" target="_blank">RES 001-ABRIL 10 2019-INVENTARIO DEPOSITO Y EXIGIBLES</a> <br>
+
+                       <img src="img/iconos/check-square.png" style="max-width: 30px" alt=""><a href="docs/resoluciones/res/RES 002-MAYO 2 2019-RESTITUCIÓN DE PAGOS A AHORRADORES INF 6MM.pdf" target="_blank">RES 002-MAYO 2 2019-RESTITUCIÓN DE PAGOS A AHORRADORES INF 6MM</a> <br>
+                        
+                        <img src="img/iconos/check-square.png" style="max-width: 30px" alt=""><a href="docs/resoluciones/res/RES 003-MAYO 24 2019-INVENTARIO ACTIVOS Y APORTES SOCIALES.pdf" target="_blank">RES 003-MAYO 24 2019-INVENTARIO ACTIVOS Y APORTES SOCIALES.pdf</a> <br>
+
+                        <img src="img/iconos/check-square.png" style="max-width: 30px" alt=""><a href="docs/resoluciones/res/RES 004-JULIO 4 2019-REPROGRAMACION PAGOS  A AHORRADORES Y DEPOSITANTES.pdf" target="_blank">RES 004-JULIO 4 2019-REPROGRAMACION PAGOS  A AHORRADORES Y DEPOSITANTES</a> <br>
+
+                        <img src="img/iconos/check-square.png" style="max-width: 30px" alt=""><a href="docs/resoluciones/res/RES 005-JULIO 15 2019-RESUELVE UN RECURSO.pdf" target="_blank">RES 005-JULIO 15 2019-RESUELVE UN RECURSO</a> <br>
+
+                        <img src="img/iconos/check-square.png" style="max-width: 30px" alt=""><a href="docs/resoluciones/res/RES 006-AGOSTO 5 2019-SE ADICIONA RES 003.pdf" target="_blank">RES 006-AGOSTO 5 2019-SE ADICIONA RES 003</a> <br>
+
+                        <img src="img/iconos/check-square.png" style="max-width: 30px" alt=""><a href="docs/resoluciones/res/RES 007 SOLA-8 NOV 2019-SEG RESTITUCIÓN DE PAGOS.pdf" target="_blank">RES 007 SOLA-8 NOV 2019-SEG RESTITUCIÓN DE PAGOS</a> <br>
+                        
+                        <img src="img/iconos/check-square.png" style="max-width: 30px" alt=""><a href="docs/resoluciones/res/RES 007-NOV 8  2019- SEG RESTITUCIÓN PAGOS.pdf" target="_blank">RES 007-NOV 8  2019- SEG RESTITUCIÓN PAGOS.pdf</a> <br>
+
+                    </div>
+                 </div>
         </div>
 
 
