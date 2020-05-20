@@ -1,13 +1,24 @@
 $(document).on('click',".btn-servicio",function(){
 
 	var id = $(this).attr("data-id");
+	//reste
+	$('#monto').val(0);
+	$('#plazo').val(0);
+	$('#tasa').val(0);
+	$('#cuota').val(0);
+	$('#aportes').val(0);
+	$('#seguro').val(0);
+	$('#total_pagar').val(0);
+	$('#total_interes').val(0);
+	$('#total_aportes').val(0);
+
 
 	$('input[name=id_linea]').val(id);
 	var nombre_linea = 'dshfkj';
 
 	//
 
-		if(id==1){
+		if(id==1){ 
 			 nombre_linea = 'CREDIAPORTES';
 			
 
