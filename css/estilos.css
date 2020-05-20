@@ -29,9 +29,11 @@
     position: absolute;
 }
 
+
 /*============================home=====================*/
-#detalle-servicio .parrafo{
-    color:#000 !important;
+
+#detalle-servicio .parrafo {
+    color: #000 !important;
 }
 
 h2.name-linea {
@@ -39,7 +41,8 @@ h2.name-linea {
     border-bottom: 1px #0003 solid;
     padding: 10px 0 25px 0;
 }
-#detalle-servicio .check-square{
+
+#detalle-servicio .check-square {
     max-width: 50px
 }
 
@@ -47,12 +50,15 @@ a.btn.btn-link.btn-servicio {
     margin: 15px 0 0 0;
     border: 1px #00b397 solid;
 }
+
 .btn-servicio i.fa.fa-info-circle {
     color: #f5a827;
 }
-.btn-mas-servicios{
+
+.btn-mas-servicios {
     margin: 20px 0 0 0
 }
+
 
 /* ==================================  Noticias  =======================
 =======================================================================#004552 */
@@ -107,14 +113,13 @@ a.btn.btn-link.btn-servicio {
     border-top: 80px #46b6cf solid;
 }
 
-.carousel-item{
+.carousel-item {
     max-height: 750px;
-    overflow:hidden;
+    overflow: hidden;
     background-attachment: fixed;
 }
-.carousel-item img {
-   
-}
+
+.carousel-item img {}
 
 .contain {
     max-width: 100%;
@@ -125,10 +130,12 @@ a.btn.btn-link.btn-servicio {
 .section_home {
     margin-bottom: 100px;
 }
-.service_single_content .service_icon img{
+
+.service_single_content .service_icon img {
     display: block;
     max-width: 100px;
 }
+
 
 /*======================== landing nosotros =====================*/
 
@@ -136,7 +143,7 @@ a.btn.btn-link.btn-servicio {
     padding-top: 0px;
 }
 
-.cabezera_nosotros .breadcumb--con  h2{
+.cabezera_nosotros .breadcumb--con h2 {
     font-size: 50px !important;
     font-weight: bold;
     border-bottom: 4px #fff solid;
@@ -159,9 +166,11 @@ a.btn.btn-link.btn-servicio {
     padding: -1px 7px 0 0;
     padding: 10px 0;
 }
-.icono-lista{
+
+.icono-lista {
     max-width: 50px
 }
+
 
 /*============================= end landign ======================*/
 
@@ -219,7 +228,12 @@ a.btn.btn-link.btn-servicio {
     /* padding: 40px 0; */
     background-color: white;
 }
-.cabezera_galeria .breadcumb--con, .cabezera_servicios .breadcumb--con, .cabezera_pqrs .breadcumb--con,.cabezera-anexos .breadcumb--con,.cabezera-contacto .breadcumb--con{
+
+.cabezera_galeria .breadcumb--con,
+.cabezera_servicios .breadcumb--con,
+.cabezera_pqrs .breadcumb--con,
+.cabezera-anexos .breadcumb--con,
+.cabezera-contacto .breadcumb--con {
     padding-top: 0px;
 }
 
@@ -232,11 +246,130 @@ a.btn.btn-link.btn-servicio {
     z-index: 10;
 }
 
+
 /*====================normatividad========================0*/
-#normatividad{
+
+#normatividad {
     text-align: center;
 }
 
-#normatividad .check-square{
+#normatividad .check-square {
     max-width: 40px
 }
+
+
+/* ================================  Servicios   ========================
+=======================================================================#004552 */
+
+.crediaportes {
+    background-image: url(../img/services/credito-aportes.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 20%;
+    transform: perspective(400px) rotateY(10deg);
+    margin-bottom: 20px;
+}
+
+.credi-content {
+    float: left;
+    width: 35%;
+    background-color: #e4e0f3ad !important;
+    border: #ff5b0000;
+}
+
+
+/*=======================================================*/
+
+.educativo {
+    background-image: url(../img/services/credito-educativo.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 20%;
+    transform: perspective(400px) rotateY(-10deg);
+    margin-bottom: 20px;
+}
+
+.credi-educacion {
+    float: right;
+    width: 35%;
+    background-color: #e4e0f3ad !important;
+    border: #ff5b0000;
+}
+
+
+/*=======================================================*/
+
+.inversion {
+    background-image: url(../img/services/credito-libre-inversion.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 20%;
+    transform: perspective(400px) rotateY(10deg);
+    margin-bottom: 20px;
+}
+
+.credi-inversion {
+    width: 35%;
+    background-color: #e4e0f3ad !important;
+    border: #ff5b0000;
+}
+
+
+/*=======================================================*/
+
+.cooexpress {
+    background-image: url(../img/services/credito-cooexpress.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 20%;
+    transform: perspective(400px) rotateY(-10deg);
+    margin-bottom: 20px;
+}
+
+.credi-cooexpress {
+    float: right;
+    width: 35%;
+    background-color: #e4e0f3ad !important;
+    border: #ff5b0000;
+}
+
+
+/*=======================================================*/
+
+.reparacion {
+    background-image: url(../img/services/credito-remodelacion-vivienda.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 20%;
+    transform: perspective(400px) rotateY(10deg);
+    margin-bottom: 20px;
+}
+
+.credi-reparacion {
+    width: 35%;
+    background-color: #e4e0f3ad !important;
+    border: #ff5b0000;
+    /* height: 90%; */
+}
+
+
+/*=======================================================*/
+
+.especial {
+    background-image: url(../img/services/cat.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 20%;
+    transform: perspective(400px) rotateY(-10deg);
+    margin-bottom: 20px;
+}
+
+.credi-especial {
+    float: right;
+    width: 35%;
+    background-color: #e4e0f3ad !important;
+    border: #ff5b0000;
+}
+
+
+/*=======================================================*/

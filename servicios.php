@@ -47,50 +47,50 @@
                 <span></span><span></span><span></span><span></span><span></span><span></span><span></span>
             </div>
             <h2 class="wow fadeInUp" data-wow-delay="0.3s">Nuestros servicios</h2>
-            <p class="wow fadeInUp" data-wow-delay="0.4s">Ofrecemos servicios de ahorro y crédito que se adaptan a tus necesidades, Somos la mejor opción para respaldar tus sueños.</p>
+            <p class="wow fadeInUp" data-wow-delay="0.4s">Ofrecemos servicios de Aporte y Crédito que se adaptan a tus necesidades, Somos la mejor opción para respaldar tus sueños.</p>
         </div>
             
 
         <div class="row">
-            <div class="col-12 col-sm-6 col-lg-4" style="padding: 5px">
+            <div class="col-12 crediaportes" style="padding: 5px">
                 <!-- Content -->
-                <div class="service_single_content text-center mb-100 wow fadeInUp" data-wow-delay="0.2s">
+                <div class="service_single_content credi-content text-center mb-100 wow fadeInUp" data-wow-delay="0.2s">
                     <!-- Icon -->
                     <div class="service_icon">
                          <img src="img/iconos/aportes.png" alt="">
                     </div>
                     <h6>CREDIAPORTES</h6>
-                    <p>
+                    <p class="text-justify" style="color: #0a0a0a">
                          Esta línea de crédito permite a nuestros asociados acceder hasta una cuantía máxima del 150% del valor de sus Aportes Sociales, la tasa es muy atractiva...
                          <br>
                         <a class="btn btn-link btn-servicio" data-id="1"><b style="color: #13287e"><i class="fa fa-info-circle" aria-hidden="true"></i>  Detalles</b></a>
                     </p>
                 </div>
             </div>
-            <div class="col-12 col-sm-6 col-lg-4" style="padding: 5px">
+            <div class="col-12 educativo" style="padding: 5px">
                 <!-- Content -->
-                <div class="service_single_content text-center mb-100 wow wow fadeInUp" data-wow-delay="0.3s">
+                <div class="service_single_content credi-educacion text-center mb-100 wow wow fadeInUp" data-wow-delay="0.3s">
                     <!-- Icon -->
                     <div class="service_icon">
                          <img src="img/iconos/estudio.png" alt="">
                     </div>
                     <h6>CREDITO EDUCATIVO</h6>
-                    <p>
+                    <p class="text-justify" style="color: #0a0a0a">
                         Por medio de esta línea brindamos una Solución de Financiamiento Educativo a nuestros asociados, cubriendo niveles educativos de Pregrado y Posgrado...
                         <br>
-                        <a class="btn btn-link btn-servicio" data-id="2"><b style="color: #13287e"><i class="fa fa-info-circle" aria-hidden="true"></i>  Detalles</b></a>
+                        <a class="btn btn-link btn-servicio" data-id="2" style="float: right"><b style="color: #13287e"><i class="fa fa-info-circle" aria-hidden="true"></i>  Detalles</b></a>
                     </p>
                 </div>
             </div>
-            <div class="col-12 col-sm-6 col-lg-4" style="padding: 5px">
+            <div class="col-12 inversion" style="padding: 5px">
                 <!-- Content -->
-                <div class="service_single_content text-center mb-100 wow fadeInUp" data-wow-delay="0.4s">
+                <div class="service_single_content credi-inversion text-center mb-100 wow fadeInUp" data-wow-delay="0.4s">
                     <!-- Icon -->
                     <div class="service_icon">
                         <img src="img/iconos/libre_inversion.png" alt="">
                     </div>
                     <h6>CREDITO LIBRE INVERSIÓN</h6>
-                    <p>
+                    <p class="text-justify" style="color: #0a0a0a">
                         Por medio de esta línea, nuestros asociados pueden acceder a una solución de financiamiento para sus proyectos de Inversión y Consumo...
                         <br>
                         <a class="btn btn-link btn-servicio" data-id="3"><b style="color: #13287e"><i class="fa fa-info-circle" aria-hidden="true"></i>  Detalles</b></a>
@@ -98,31 +98,31 @@
                 </div>
             </div>
 
-            <div class="col-12 col-sm-6 col-lg-4" style="padding: 5px">
+            <div class="col-12 cooexpress" style="padding: 5px">
                 <!-- Content -->
-                <div class="service_single_content text-center mb-100 wow fadeInUp" data-wow-delay="0.4s">
+                <div class="service_single_content credi-cooexpress text-center mb-100 wow fadeInUp" data-wow-delay="0.4s">
                     <!-- Icon -->
                     <div class="service_icon">
                          <img src="img/iconos/prima.png" alt="">
                     </div>
                     <h6>COOEXPRESS</h6>
-                    <p>
+                    <p class="text-justify" style="color: #0a0a0a">
                         Es una línea creada para nuestros asociados, cuyo pago se hace con la Prima de Servicios. Es una alternativa para solucionar en el corto plazo las necesidades...
                         <br>
-                        <a class="btn btn-link btn-servicio" data-id="4"><b style="color: #13287e"><i class="fa fa-info-circle" aria-hidden="true"></i>  Detalles</b></a>
+                        <a class="btn btn-link btn-servicio" data-id="4" style="float: right"><b style="color: #13287e"><i class="fa fa-info-circle" aria-hidden="true"></i>  Detalles</b></a>
                     </p>
                 </div>
             </div>
 
-            <div class="col-12 col-sm-6 col-lg-4" style="padding: 5px">
+            <div class="col-12 reparacion" style="padding: 5px">
                 <!-- Content -->
-                <div class="service_single_content text-center mb-100 wow fadeInUp" data-wow-delay="0.4s">
+                <div class="service_single_content credi-reparacion text-center mb-100 wow fadeInUp" data-wow-delay="0.4s">
                     <!-- Icon -->
                     <div class="service_icon">
                         <img src="img/iconos/arreglo_vivienda.png" alt="">
                     </div>
                     <h6>CREDITÓ PARA REPARACIÓN O MEJORA DE VIVIENDA</h6>
-                    <p>
+                    <p class="text-justify" style="color: #0a0a0a"">
                        Esta línea ha sido diseñada para que nuestros Asociados puedan financiar la reparación o mejora de sus viviendas. Al compartir sus metas de reparaciones...
                        <br>
                         <a class="btn btn-link btn-servicio" data-id="5"><b style="color: #13287e"><i class="fa fa-info-circle" aria-hidden="true"></i>  Detalles</b></a>
@@ -131,18 +131,18 @@
             </div>
 
 
-             <div class="col-12 col-sm-6 col-lg-4" style="padding: 5px">
+             <div class="col-12 especial" style="padding: 5px">
                 <!-- Content -->
-                <div class="service_single_content text-center mb-100 wow fadeInUp" data-wow-delay="0.4s">
+                <div class="service_single_content credi-especial text-center mb-100 wow fadeInUp" data-wow-delay="0.4s">
                     <!-- Icon -->
                     <div class="service_icon">
                         <img src="img/iconos/ahorro.png" alt="">
                     </div>
                     <h6>LINEA DE CREDITO ESPECIAL PARA AHORRADORES</h6>
-                    <p>
+                    <p class="text-justify" style="color: #0a0a0a">
                       Línea dirigida a los ahorradores reconocidos en la Toma de Posesión de la Cooperativa. Permite disfrutar hoy de estos recursos...
                        <br>
-                        <a class="btn btn-link btn-servicio" data-id="6"><b style="color: #13287e"><i class="fa fa-info-circle" aria-hidden="true"></i>  Detalles</b></a>
+                        <a class="btn btn-link btn-servicio" data-id="6" style="float: right"><b style="color: #13287e"><i class="fa fa-info-circle" aria-hidden="true"></i>  Detalles</b></a>
                     </p>
                 </div>
             </div>
